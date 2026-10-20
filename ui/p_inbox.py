@@ -63,9 +63,10 @@ with st.expander("➕ Add a vendor response (any format)", expanded=False):
                                   [(u.name, u.getvalue()) for u in files or []],
                                   datetime.now().isoformat(timespec="minutes"))
             store.audit("response_added", {"vendor": f.name, "files": [u.name for u in files or []]}, "buyer")
-            if read_now:
-                read(f)
-            st.rerun()
+            st.cache_data.clear()
+            if not read_now or read(f):
+                st.rerun()
+            # on failure we stay on this run so the error above remains visible
 
 # ---- read all ---------------------------------------------------------------------------
 pending = [f for f in folders if can_read(f) and stale(f)]

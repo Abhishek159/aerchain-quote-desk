@@ -21,3 +21,6 @@ data/runtime/extractions/*
 
 # the assignment brief is confidential - never publish it
 /Aerchain-Product-Assignment*.pdf
+
+# local test files for the upload form
+test_uploads/
