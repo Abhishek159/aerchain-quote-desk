@@ -1,0 +1,998 @@
+{
+  "vendor_id": "V3",
+  "vendor_name": "Konkan Kraft Boxes LLP",
+  "folder": "V3_KonkanKraft",
+  "extracted_at": "2026-10-16T17:00:13",
+  "model": "gemini-3.8-flash",
+  "files": [
+    {
+      "file": "email body",
+      "kind": "email"
+    },
+    {
+      "file": "KonkanKraft_Offer_Letter.docx",
+      "kind": "docx"
+    },
+    {
+      "file": "KonkanKraft_ISO9001.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "result": {
+    "quote_reference": "MFPL/PKG/RFQ/2026-27/014",
+    "quote_date": "2026-10-09",
+    "line_quotes": [
+      {
+        "vendor_item_text": "L01 at ₹4.72",
+        "vendor_dims": null,
+        "vendor_ply": 3,
+        "rfx_line_id": "L01",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L01 under 3-ply shipper range",
+        "price_value": 4.72,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 8",
+          "verbatim": "L01 at ₹4.72"
+        }
+      },
+      {
+        "vendor_item_text": "L02 at ₹7.09",
+        "vendor_dims": null,
+        "vendor_ply": 3,
+        "rfx_line_id": "L02",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L02 under 3-ply shipper range",
+        "price_value": 7.09,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 8",
+          "verbatim": "L02 at ₹7.09"
+        }
+      },
+      {
+        "vendor_item_text": "L03 at ₹8.95",
+        "vendor_dims": null,
+        "vendor_ply": 3,
+        "rfx_line_id": "L03",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L03 under 3-ply shipper range",
+        "price_value": 8.95,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 8",
+          "verbatim": "L03 at ₹8.95"
+        }
+      },
+      {
+        "vendor_item_text": "L04 at ₹12.74",
+        "vendor_dims": null,
+        "vendor_ply": 3,
+        "rfx_line_id": "L04",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L04 under 3-ply shipper range",
+        "price_value": 12.74,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 8",
+          "verbatim": "L04 at ₹12.74"
+        }
+      },
+      {
+        "vendor_item_text": "L05 is ₹13.02",
+        "vendor_dims": null,
+        "vendor_ply": 3,
+        "rfx_line_id": "L05",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L05 under 3-ply shipper range",
+        "price_value": 13.02,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": "Propose 140 GSM top liner in place of specified 150 GSM",
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 8",
+          "verbatim": "For L05 through L08 we would like to propose a 140 GSM top liner in place of the specified 150 GSM, which in our experience gives identical BCT performance for these sizes; on that basis L05 is ₹13.02"
+        }
+      },
+      {
+        "vendor_item_text": "L06 ₹14.98",
+        "vendor_dims": null,
+        "vendor_ply": 3,
+        "rfx_line_id": "L06",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L06 under 3-ply shipper range",
+        "price_value": 14.98,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": "Propose 140 GSM top liner in place of specified 150 GSM",
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 8",
+          "verbatim": "L06 ₹14.98"
+        }
+      },
+      {
+        "vendor_item_text": "L07 ₹18.87",
+        "vendor_dims": null,
+        "vendor_ply": 3,
+        "rfx_line_id": "L07",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L07 under 3-ply shipper range",
+        "price_value": 18.87,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": "Propose 140 GSM top liner in place of specified 150 GSM",
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 8",
+          "verbatim": "L07 ₹18.87"
+        }
+      },
+      {
+        "vendor_item_text": "L08 ₹19.41",
+        "vendor_dims": null,
+        "vendor_ply": 3,
+        "rfx_line_id": "L08",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L08 under 3-ply shipper range",
+        "price_value": 19.41,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": "Propose 140 GSM top liner in place of specified 150 GSM",
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 8",
+          "verbatim": "L08 ₹19.41"
+        }
+      },
+      {
+        "vendor_item_text": "L09 come to ₹22.53",
+        "vendor_dims": null,
+        "vendor_ply": 3,
+        "rfx_line_id": "L09",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L09",
+        "price_value": 22.53,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 8",
+          "verbatim": "The two larger 3-ply sizes, L09 and L10, come to ₹22.53 and ₹25.86 respectively."
+        }
+      },
+      {
+        "vendor_item_text": "L10 come to ₹25.86",
+        "vendor_dims": null,
+        "vendor_ply": 3,
+        "rfx_line_id": "L10",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L10",
+        "price_value": 25.86,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 8",
+          "verbatim": "The two larger 3-ply sizes, L09 and L10, come to ₹22.53 and ₹25.86 respectively."
+        }
+      },
+      {
+        "vendor_item_text": "L11 ₹22.14",
+        "vendor_dims": null,
+        "vendor_ply": 5,
+        "rfx_line_id": "L11",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L11 under 5-ply master cartons",
+        "price_value": 22.14,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 9",
+          "verbatim": "L11 ₹22.14"
+        }
+      },
+      {
+        "vendor_item_text": "L12 ₹28.40",
+        "vendor_dims": null,
+        "vendor_ply": 5,
+        "rfx_line_id": "L12",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L12 under 5-ply master cartons",
+        "price_value": 28.4,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 9",
+          "verbatim": "L12 ₹28.40"
+        }
+      },
+      {
+        "vendor_item_text": "L13 ₹33.59",
+        "vendor_dims": null,
+        "vendor_ply": 5,
+        "rfx_line_id": "L13",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L13 under 5-ply master cartons",
+        "price_value": 33.59,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 9",
+          "verbatim": "L13 ₹33.59"
+        }
+      },
+      {
+        "vendor_item_text": "L14 ₹37.35",
+        "vendor_dims": null,
+        "vendor_ply": 5,
+        "rfx_line_id": "L14",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L14 under 5-ply master cartons",
+        "price_value": 37.35,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 9",
+          "verbatim": "L14 ₹37.35"
+        }
+      },
+      {
+        "vendor_item_text": "L15 ₹37.91",
+        "vendor_dims": null,
+        "vendor_ply": 5,
+        "rfx_line_id": "L15",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L15 under 5-ply master cartons",
+        "price_value": 37.91,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 9",
+          "verbatim": "L15 ₹37.91"
+        }
+      },
+      {
+        "vendor_item_text": "L16 is ₹44.79",
+        "vendor_dims": null,
+        "vendor_ply": 5,
+        "rfx_line_id": "L16",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L16 under 5-ply master cartons",
+        "price_value": 44.79,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 9",
+          "verbatim": "L16 is ₹44.79"
+        }
+      },
+      {
+        "vendor_item_text": "L17 same rate as L16",
+        "vendor_dims": null,
+        "vendor_ply": 5,
+        "rfx_line_id": "L17",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L17 as same rate as L16",
+        "price_value": null,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "same_as_other_line",
+        "reference_line_id": "L16",
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 9",
+          "verbatim": "since L17 and L18 run on the same deckle we can hold them at the same rate as L16."
+        }
+      },
+      {
+        "vendor_item_text": "L18 same rate as L16",
+        "vendor_dims": null,
+        "vendor_ply": 5,
+        "rfx_line_id": "L18",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L18 as same rate as L16",
+        "price_value": null,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "same_as_other_line",
+        "reference_line_id": "L16",
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 9",
+          "verbatim": "since L17 and L18 run on the same deckle we can hold them at the same rate as L16."
+        }
+      },
+      {
+        "vendor_item_text": "The gift shipper L19 with 4-colour print is ₹60.57",
+        "vendor_dims": null,
+        "vendor_ply": 5,
+        "rfx_line_id": "L19",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L19",
+        "price_value": 60.57,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 9",
+          "verbatim": "The gift shipper L19 with 4-colour print is ₹60.57"
+        }
+      },
+      {
+        "vendor_item_text": "L20 ₹66.29",
+        "vendor_dims": null,
+        "vendor_ply": 5,
+        "rfx_line_id": "L20",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L20",
+        "price_value": 66.29,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 9",
+          "verbatim": "L20 ₹66.29"
+        }
+      },
+      {
+        "vendor_item_text": "L21 ₹64.70",
+        "vendor_dims": null,
+        "vendor_ply": 5,
+        "rfx_line_id": "L21",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L21",
+        "price_value": 64.7,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 9",
+          "verbatim": "L21 ₹64.70"
+        }
+      },
+      {
+        "vendor_item_text": "L22 ₹75.66",
+        "vendor_dims": null,
+        "vendor_ply": 5,
+        "rfx_line_id": "L22",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L22",
+        "price_value": 75.66,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 9",
+          "verbatim": "L22 ₹75.66"
+        }
+      },
+      {
+        "vendor_item_text": "L23 at ₹85.48",
+        "vendor_dims": null,
+        "vendor_ply": 7,
+        "rfx_line_id": "L23",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L23 under 7-ply heavy-duty range",
+        "price_value": 85.48,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 10",
+          "verbatim": "L23 at ₹85.48"
+        }
+      },
+      {
+        "vendor_item_text": "L24 at ₹118.85",
+        "vendor_dims": null,
+        "vendor_ply": 7,
+        "rfx_line_id": "L24",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L24 under 7-ply heavy-duty range",
+        "price_value": 118.85,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 10",
+          "verbatim": "L24 at ₹118.85"
+        }
+      },
+      {
+        "vendor_item_text": "L25 at ₹153.92",
+        "vendor_dims": null,
+        "vendor_ply": 7,
+        "rfx_line_id": "L25",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L25 under 7-ply heavy-duty range",
+        "price_value": 153.92,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 10",
+          "verbatim": "L25 at ₹153.92"
+        }
+      },
+      {
+        "vendor_item_text": "new export carton L26 at ₹219.75 per box",
+        "vendor_dims": null,
+        "vendor_ply": 7,
+        "rfx_line_id": "L26",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L26 under 7-ply heavy-duty range",
+        "price_value": 219.75,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 10",
+          "verbatim": "the new export carton L26 at ₹219.75 per box"
+        }
+      },
+      {
+        "vendor_item_text": "the 12-cell partition (L27) at ₹5,630 per thousand sets",
+        "vendor_dims": null,
+        "vendor_ply": 3,
+        "rfx_line_id": "L27",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L27 and description 12-cell partition",
+        "price_value": 5630,
+        "currency": "INR",
+        "price_basis": "per_1000",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 11",
+          "verbatim": "the 12-cell partition (L27) at ₹5,630 per thousand sets"
+        }
+      },
+      {
+        "vendor_item_text": "the 24-cell partition (L28) at ₹8,460",
+        "vendor_dims": null,
+        "vendor_ply": 3,
+        "rfx_line_id": "L28",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L28 and description 24-cell partition",
+        "price_value": 8460,
+        "currency": "INR",
+        "price_basis": "per_1000",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 11",
+          "verbatim": "the 24-cell partition (L28) at ₹8,460"
+        }
+      },
+      {
+        "vendor_item_text": "layer pads (L29) at ₹5,720",
+        "vendor_dims": null,
+        "vendor_ply": 3,
+        "rfx_line_id": "L29",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L29 and description layer pads",
+        "price_value": 5720,
+        "currency": "INR",
+        "price_basis": "per_1000",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 11",
+          "verbatim": "layer pads (L29) at ₹5,720"
+        }
+      },
+      {
+        "vendor_item_text": "the die-cut tray (L30) at ₹9,040 per thousand",
+        "vendor_dims": null,
+        "vendor_ply": 3,
+        "rfx_line_id": "L30",
+        "match_confidence": "high",
+        "match_reason": "Vendor explicitly referenced line id L30 and description die-cut tray",
+        "price_value": 9040,
+        "currency": "INR",
+        "price_basis": "per_1000",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 11",
+          "verbatim": "and the die-cut tray (L30) at ₹9,040 per thousand."
+        }
+      }
+    ],
+    "bulk_rules": [
+      {
+        "statement": "since L17 and L18 run on the same deckle we can hold them at the same rate as L16",
+        "applies_to_line_ids": [
+          "L17",
+          "L18"
+        ],
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 9",
+          "verbatim": "L16 is ₹44.79, and since L17 and L18 run on the same deckle we can hold them at the same rate as L16."
+        }
+      }
+    ],
+    "terms": {
+      "freight_basis": "included",
+      "freight_value": null,
+      "freight_text": "all of which are on a delivered-Chakan basis (freight is included in the rates below)",
+      "gst_text": "exclusive of GST, which will be charged at 5%",
+      "payment_terms_days": 45,
+      "payment_text": "Our payment expectation is 45 days from invoice.",
+      "advance_payment_pct": null,
+      "validity_text": "Rates are valid until 31st March 2027, after which we would request a review linked to kraft paper prices.",
+      "lead_time_days": 21,
+      "price_variation_clause": "after which we would request a review linked to kraft paper prices",
+      "discounts": [],
+      "other_notes": [
+        "Vendor proposes a 140 GSM top liner in place of the specified 150 GSM for L05 through L08.",
+        "Accessories (L27-L30) are quoted per thousand units rather than per unit."
+      ],
+      "source_notes": [
+        {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 7",
+          "verbatim": "all of which are on a delivered-Chakan basis (freight is included in the rates below) and exclusive of GST, which will be charged at 5%."
+        },
+        {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 12",
+          "verbatim": "Our payment expectation is 45 days from invoice. Rates are valid until 31st March 2027, after which we would request a review linked to kraft paper prices. Standard lead time is 21 days."
+        }
+      ]
+    },
+    "questionnaire": [
+      {
+        "qid": "Q1",
+        "answered": true,
+        "answer_text": "yes, we are ISO 9001 certified (copy enclosed).",
+        "value_bool": true,
+        "value_number": null,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 13",
+          "verbatim": "yes, we are ISO 9001 certified (copy enclosed)."
+        }
+      },
+      {
+        "qid": "Q2",
+        "answered": true,
+        "answer_text": "Every lot is tested for BCT and bursting strength - we do this through an NABL-accredited lab in Chakan as we are setting up our own lab next year.",
+        "value_bool": true,
+        "value_number": null,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 13",
+          "verbatim": "Every lot is tested for BCT and bursting strength - we do this through an NABL-accredited lab in Chakan as we are setting up our own lab next year."
+        }
+      },
+      {
+        "qid": "Q3",
+        "answered": true,
+        "answer_text": "Our installed capacity is approximately 150-200 MT per month depending on the product mix",
+        "value_bool": null,
+        "value_number": null,
+        "is_range": true,
+        "range_low": 150,
+        "range_high": 200,
+        "is_vague": true,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 13",
+          "verbatim": "Our installed capacity is approximately 150-200 MT per month depending on the product mix"
+        }
+      },
+      {
+        "qid": "Q4",
+        "answered": true,
+        "answer_text": "our customer rejection rate over the last twelve months has been 1.4%.",
+        "value_bool": null,
+        "value_number": 1.4,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 13",
+          "verbatim": "our customer rejection rate over the last twelve months has been 1.4%."
+        }
+      },
+      {
+        "qid": "Q5",
+        "answered": true,
+        "answer_text": "Standard lead time is 21 days.",
+        "value_bool": null,
+        "value_number": 21,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 12",
+          "verbatim": "Standard lead time is 21 days."
+        }
+      },
+      {
+        "qid": "Q6",
+        "answered": true,
+        "answer_text": "Inks are water-based and IS 15495 compliant.",
+        "value_bool": true,
+        "value_number": null,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 13",
+          "verbatim": "Inks are water-based and IS 15495 compliant."
+        }
+      },
+      {
+        "qid": "Q7",
+        "answered": true,
+        "answer_text": "Recycled content is around 60%",
+        "value_bool": null,
+        "value_number": 60,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": true,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 13",
+          "verbatim": "Recycled content is around 60%"
+        }
+      },
+      {
+        "qid": "Q8",
+        "answered": true,
+        "answer_text": "we serve 9 food and FMCG customers",
+        "value_bool": null,
+        "value_number": 9,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 13",
+          "verbatim": "we serve 9 food and FMCG customers"
+        }
+      },
+      {
+        "qid": "Q9",
+        "answered": true,
+        "answer_text": "our plant is about 31 km from Chakan.",
+        "value_bool": null,
+        "value_number": 31,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": true,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 13",
+          "verbatim": "our plant is about 31 km from Chakan."
+        }
+      },
+      {
+        "qid": "Q10",
+        "answered": true,
+        "answer_text": "We are open to discussing 60-day terms for an annual contract of meaningful size.",
+        "value_bool": null,
+        "value_number": null,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": true,
+        "source": {
+          "file": "KonkanKraft_Offer_Letter.docx",
+          "locator": "para 13",
+          "verbatim": "We are open to discussing 60-day terms for an annual contract of meaningful size."
+        }
+      }
+    ],
+    "certificates": [
+      {
+        "standard": "ISO 9001:2015",
+        "holder": "Konkan Kraft Boxes LLP",
+        "certificate_no": "QCS-QM-20456",
+        "valid_until": "2027-11-30",
+        "file": "KonkanKraft_ISO9001.pdf"
+      }
+    ],
+    "reader_notes": [
+      "Vendor stated GST will be charged at 5%, whereas the standard GST on corrugated boxes in India is typically 12% or 18%; this should be verified with the vendor.",
+      "Vendor proposed 140 GSM top liner in lieu of 150 GSM for lines L05 through L08.",
+      "Lines L17 and L18 are tied to L16's pricing (₹44.79) based on common deckle size.",
+      "Accessories (L27 to L30) are quoted per 1,000 units/sets rather than single piece/set requested in RFx."
+    ]
+  },
+  "second_read": null
+}

@@ -1,0 +1,12 @@
+[runner]
+magicEnabled = false
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#E8562A"
+
+[server]
+maxUploadSize = 20

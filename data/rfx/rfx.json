@@ -1,0 +1,529 @@
+{
+  "rfx_id": "MFPL/PKG/RFQ/2026-27/014",
+  "title": "Corrugated boxes & accessories - annual rate contract FY 2026-27",
+  "buyer": {
+    "name": "Meghna Foods Pvt. Ltd.",
+    "plant": "Chakan Plant, Plot B-14, MIDC Phase II, Chakan, Pune 410501",
+    "contact": "Ritika Deshmukh, Category Manager - Packaging",
+    "email": "ritika.deshmukh@meghnafoods.example"
+  },
+  "issued_on": "2026-10-01",
+  "due_on": "2026-10-10",
+  "category": "Corrugated packaging",
+  "scope": "Annual rate contract for 30 corrugated packaging SKUs (3/5/7-ply RSC cartons, partitions, layer pads, die-cut trays) for the Chakan plant. Quantities are annual estimates; call-offs against monthly schedules.",
+  "lines": [
+    {
+      "line_id": "L01",
+      "item_code": "MF-PK-0001",
+      "description": "Shipper carton - Namkeen 40g x 24",
+      "kind": "RSC",
+      "dimensions_mm": "200 x 150 x 100",
+      "ply": 3,
+      "board_spec": "Kraft 150 / Fluting 120 (B) / Kraft 150 GSM, BF 18",
+      "print": "Plain",
+      "uom": "piece",
+      "annual_qty": 151000,
+      "nominal_weight_kg": 0.086
+    },
+    {
+      "line_id": "L02",
+      "item_code": "MF-PK-0002",
+      "description": "Shipper carton - Namkeen 80g x 24",
+      "kind": "RSC",
+      "dimensions_mm": "250 x 180 x 120",
+      "ply": 3,
+      "board_spec": "Kraft 150 / Fluting 120 (B) / Kraft 150 GSM, BF 18",
+      "print": "1 colour",
+      "uom": "piece",
+      "annual_qty": 113000,
+      "nominal_weight_kg": 0.126
+    },
+    {
+      "line_id": "L03",
+      "item_code": "MF-PK-0003",
+      "description": "Shipper carton - Chips 52g x 30",
+      "kind": "RSC",
+      "dimensions_mm": "300 x 200 x 150",
+      "ply": 3,
+      "board_spec": "Kraft 150 / Fluting 120 (B) / Kraft 150 GSM, BF 18",
+      "print": "1 colour",
+      "uom": "piece",
+      "annual_qty": 94000,
+      "nominal_weight_kg": 0.17
+    },
+    {
+      "line_id": "L04",
+      "item_code": "MF-PK-0004",
+      "description": "Shipper carton - Chips family pack x 12",
+      "kind": "RSC",
+      "dimensions_mm": "320 x 240 x 180",
+      "ply": 3,
+      "board_spec": "Kraft 150 / Fluting 120 (B) / Kraft 150 GSM, BF 18",
+      "print": "2 colour",
+      "uom": "piece",
+      "annual_qty": 76000,
+      "nominal_weight_kg": 0.227
+    },
+    {
+      "line_id": "L05",
+      "item_code": "MF-PK-0005",
+      "description": "Shipper carton - Rusk 300g x 16",
+      "kind": "RSC",
+      "dimensions_mm": "350 x 250 x 200",
+      "ply": 3,
+      "board_spec": "Kraft 150 / Fluting 120 (B) / Kraft 150 GSM, BF 18",
+      "print": "1 colour",
+      "uom": "piece",
+      "annual_qty": 63000,
+      "nominal_weight_kg": 0.26
+    },
+    {
+      "line_id": "L06",
+      "item_code": "MF-PK-0006",
+      "description": "Shipper carton - Mixture 1kg x 10",
+      "kind": "RSC",
+      "dimensions_mm": "380 x 280 x 220",
+      "ply": 3,
+      "board_spec": "Kraft 150 / Fluting 120 (B) / Kraft 150 GSM, BF 18",
+      "print": "Plain",
+      "uom": "piece",
+      "annual_qty": 57000,
+      "nominal_weight_kg": 0.317
+    },
+    {
+      "line_id": "L07",
+      "item_code": "MF-PK-0007",
+      "description": "Shipper carton - Cookies tin x 12",
+      "kind": "RSC",
+      "dimensions_mm": "400 x 300 x 200",
+      "ply": 3,
+      "board_spec": "Kraft 150 / Fluting 120 (B) / Kraft 150 GSM, BF 18",
+      "print": "2 colour",
+      "uom": "piece",
+      "annual_qty": 50000,
+      "nominal_weight_kg": 0.336
+    },
+    {
+      "line_id": "L08",
+      "item_code": "MF-PK-0008",
+      "description": "Shipper carton - Assorted gift x 8",
+      "kind": "RSC",
+      "dimensions_mm": "420 x 320 x 250",
+      "ply": 3,
+      "board_spec": "Kraft 150 / Fluting 120 (B) / Kraft 150 GSM, BF 18",
+      "print": "1 colour",
+      "uom": "piece",
+      "annual_qty": 38000,
+      "nominal_weight_kg": 0.404
+    },
+    {
+      "line_id": "L09",
+      "item_code": "MF-PK-0009",
+      "description": "Shipper carton - Bulk namkeen 5kg x 4",
+      "kind": "RSC",
+      "dimensions_mm": "450 x 350 x 250",
+      "ply": 3,
+      "board_spec": "Kraft 150 / Fluting 120 (B) / Kraft 150 GSM, BF 18",
+      "print": "Plain",
+      "uom": "piece",
+      "annual_qty": 32000,
+      "nominal_weight_kg": 0.459
+    },
+    {
+      "line_id": "L10",
+      "item_code": "MF-PK-0010",
+      "description": "Shipper carton - Institutional pack",
+      "kind": "RSC",
+      "dimensions_mm": "480 x 360 x 300",
+      "ply": 3,
+      "board_spec": "Kraft 150 / Fluting 120 (B) / Kraft 150 GSM, BF 18",
+      "print": "Plain",
+      "uom": "piece",
+      "annual_qty": 25000,
+      "nominal_weight_kg": 0.53
+    },
+    {
+      "line_id": "L11",
+      "item_code": "MF-PK-0011",
+      "description": "Master carton - Biscuit 75g x 48",
+      "kind": "RSC",
+      "dimensions_mm": "300 x 250 x 200",
+      "ply": 5,
+      "board_spec": "Kraft 180 / Fl 120 (B) / Kraft 150 / Fl 120 (C) / Kraft 180 GSM, BF 20",
+      "print": "1 colour",
+      "uom": "piece",
+      "annual_qty": 94000,
+      "nominal_weight_kg": 0.432
+    },
+    {
+      "line_id": "L12",
+      "item_code": "MF-PK-0012",
+      "description": "Master carton - Biscuit 150g x 36",
+      "kind": "RSC",
+      "dimensions_mm": "350 x 280 x 220",
+      "ply": 5,
+      "board_spec": "Kraft 180 / Fl 120 (B) / Kraft 150 / Fl 120 (C) / Kraft 180 GSM, BF 20",
+      "print": "2 colour",
+      "uom": "piece",
+      "annual_qty": 88000,
+      "nominal_weight_kg": 0.548
+    },
+    {
+      "line_id": "L13",
+      "item_code": "MF-PK-0013",
+      "description": "Master carton - Cream biscuit 120g x 40",
+      "kind": "RSC",
+      "dimensions_mm": "380 x 300 x 250",
+      "ply": 5,
+      "board_spec": "Kraft 180 / Fl 120 (B) / Kraft 150 / Fl 120 (C) / Kraft 180 GSM, BF 20",
+      "print": "1 colour",
+      "uom": "piece",
+      "annual_qty": 76000,
+      "nominal_weight_kg": 0.649
+    },
+    {
+      "line_id": "L14",
+      "item_code": "MF-PK-0014",
+      "description": "Master carton - Glucose 800g x 12",
+      "kind": "RSC",
+      "dimensions_mm": "400 x 300 x 300",
+      "ply": 5,
+      "board_spec": "Kraft 180 / Fl 120 (B) / Kraft 150 / Fl 120 (C) / Kraft 180 GSM, BF 20",
+      "print": "1 colour",
+      "uom": "piece",
+      "annual_qty": 69000,
+      "nominal_weight_kg": 0.728
+    },
+    {
+      "line_id": "L15",
+      "item_code": "MF-PK-0015",
+      "description": "Master carton - Juice 200ml x 27",
+      "kind": "RSC",
+      "dimensions_mm": "420 x 320 x 280",
+      "ply": 5,
+      "board_spec": "Kraft 180 / Fl 120 (B) / Kraft 150 / Fl 120 (C) / Kraft 180 GSM, BF 20",
+      "print": "2 colour",
+      "uom": "piece",
+      "annual_qty": 63000,
+      "nominal_weight_kg": 0.769
+    },
+    {
+      "line_id": "L16",
+      "item_code": "MF-PK-0016",
+      "description": "Master carton - Juice 1L x 12",
+      "kind": "RSC",
+      "dimensions_mm": "450 x 350 x 300",
+      "ply": 5,
+      "board_spec": "Kraft 180 / Fl 120 (B) / Kraft 150 / Fl 120 (C) / Kraft 180 GSM, BF 20",
+      "print": "1 colour",
+      "uom": "piece",
+      "annual_qty": 57000,
+      "nominal_weight_kg": 0.899
+    },
+    {
+      "line_id": "L17",
+      "item_code": "MF-PK-0017",
+      "description": "Master carton - Soda 600ml x 24",
+      "kind": "RSC",
+      "dimensions_mm": "480 x 360 x 320",
+      "ply": 5,
+      "board_spec": "Kraft 180 / Fl 120 (B) / Kraft 150 / Fl 120 (C) / Kraft 180 GSM, BF 20",
+      "print": "1 colour",
+      "uom": "piece",
+      "annual_qty": 50000,
+      "nominal_weight_kg": 0.987
+    },
+    {
+      "line_id": "L18",
+      "item_code": "MF-PK-0018",
+      "description": "Master carton - Water 1L x 12",
+      "kind": "RSC",
+      "dimensions_mm": "500 x 380 x 320",
+      "ply": 5,
+      "board_spec": "Kraft 180 / Fl 120 (B) / Kraft 150 / Fl 120 (C) / Kraft 180 GSM, BF 20",
+      "print": "Plain",
+      "uom": "piece",
+      "annual_qty": 44000,
+      "nominal_weight_kg": 1.063
+    },
+    {
+      "line_id": "L19",
+      "item_code": "MF-PK-0019",
+      "description": "Gift pack shipper - Diwali hamper",
+      "kind": "RSC",
+      "dimensions_mm": "520 x 400 x 350",
+      "ply": 5,
+      "board_spec": "Kraft 180 / Fl 120 (B) / Kraft 150 / Fl 120 (C) / Kraft 180 GSM, BF 20",
+      "print": "4 colour",
+      "uom": "piece",
+      "annual_qty": 32000,
+      "nominal_weight_kg": 1.19
+    },
+    {
+      "line_id": "L20",
+      "item_code": "MF-PK-0020",
+      "description": "Master carton - Ghee 1L x 12",
+      "kind": "RSC",
+      "dimensions_mm": "550 x 420 x 380",
+      "ply": 5,
+      "board_spec": "Kraft 180 / Fl 120 (B) / Kraft 150 / Fl 120 (C) / Kraft 180 GSM, BF 20",
+      "print": "1 colour",
+      "uom": "piece",
+      "annual_qty": 25000,
+      "nominal_weight_kg": 1.337
+    },
+    {
+      "line_id": "L21",
+      "item_code": "MF-PK-0021",
+      "description": "Master carton - Atta 5kg x 4",
+      "kind": "RSC",
+      "dimensions_mm": "600 x 400 x 400",
+      "ply": 5,
+      "board_spec": "Kraft 180 / Fl 120 (B) / Kraft 150 / Fl 120 (C) / Kraft 180 GSM, BF 20",
+      "print": "Plain",
+      "uom": "piece",
+      "annual_qty": 19000,
+      "nominal_weight_kg": 1.377
+    },
+    {
+      "line_id": "L22",
+      "item_code": "MF-PK-0022",
+      "description": "Master carton - Sugar 5kg x 5",
+      "kind": "RSC",
+      "dimensions_mm": "600 x 450 x 450",
+      "ply": 5,
+      "board_spec": "Kraft 180 / Fl 120 (B) / Kraft 150 / Fl 120 (C) / Kraft 180 GSM, BF 20",
+      "print": "1 colour",
+      "uom": "piece",
+      "annual_qty": 16000,
+      "nominal_weight_kg": 1.626
+    },
+    {
+      "line_id": "L23",
+      "item_code": "MF-PK-0023",
+      "description": "Heavy-duty carton - Edible oil 15L tin",
+      "kind": "RSC",
+      "dimensions_mm": "400 x 400 x 350",
+      "ply": 7,
+      "board_spec": "Kraft 200 / Fl 150 / 180 / Fl 150 / 180 / Fl 150 / Kraft 200 GSM, BF 24",
+      "print": "1 colour",
+      "uom": "piece",
+      "annual_qty": 19000,
+      "nominal_weight_kg": 1.704
+    },
+    {
+      "line_id": "L24",
+      "item_code": "MF-PK-0024",
+      "description": "Heavy-duty carton - Oil 5L jar x 4",
+      "kind": "RSC",
+      "dimensions_mm": "450 x 450 x 400",
+      "ply": 7,
+      "board_spec": "Kraft 200 / Fl 150 / 180 / Fl 150 / 180 / Fl 150 / Kraft 200 GSM, BF 24",
+      "print": "1 colour",
+      "uom": "piece",
+      "annual_qty": 16000,
+      "nominal_weight_kg": 2.168
+    },
+    {
+      "line_id": "L25",
+      "item_code": "MF-PK-0025",
+      "description": "Heavy-duty carton - Bulk ingredients 20kg",
+      "kind": "RSC",
+      "dimensions_mm": "600 x 500 x 500",
+      "ply": 7,
+      "board_spec": "Kraft 200 / Fl 150 / 180 / Fl 150 / 180 / Fl 150 / Kraft 200 GSM, BF 24",
+      "print": "Plain",
+      "uom": "piece",
+      "annual_qty": 9000,
+      "nominal_weight_kg": 3.107
+    },
+    {
+      "line_id": "L26",
+      "item_code": "MF-PK-0026",
+      "description": "Export carton - Pallet master (new SKU)",
+      "kind": "RSC",
+      "dimensions_mm": "800 x 600 x 600",
+      "ply": 7,
+      "board_spec": "Kraft 200 / Fl 150 / 180 / Fl 150 / 180 / Fl 150 / Kraft 200 GSM, BF 24",
+      "print": "Plain",
+      "uom": "piece",
+      "annual_qty": 5000,
+      "nominal_weight_kg": 4.729
+    },
+    {
+      "line_id": "L27",
+      "item_code": "MF-PK-0027",
+      "description": "Partition set 12-cell (fits L11)",
+      "kind": "PARTITION12",
+      "dimensions_mm": "as per drawing",
+      "ply": 3,
+      "board_spec": "Kraft 150 / Fluting 120 (B) / Kraft 150 GSM, BF 18",
+      "print": "Plain",
+      "uom": "set",
+      "annual_qty": 126000,
+      "nominal_weight_kg": 0.084
+    },
+    {
+      "line_id": "L28",
+      "item_code": "MF-PK-0028",
+      "description": "Partition set 24-cell (fits L16)",
+      "kind": "PARTITION24",
+      "dimensions_mm": "as per drawing",
+      "ply": 3,
+      "board_spec": "Kraft 150 / Fluting 120 (B) / Kraft 150 GSM, BF 18",
+      "print": "Plain",
+      "uom": "set",
+      "annual_qty": 76000,
+      "nominal_weight_kg": 0.15
+    },
+    {
+      "line_id": "L29",
+      "item_code": "MF-PK-0029",
+      "description": "Layer pad 590 x 390 mm",
+      "kind": "PAD",
+      "dimensions_mm": "590 x 390",
+      "ply": 3,
+      "board_spec": "Kraft 150 / Fluting 120 (B) / Kraft 150 GSM, BF 18",
+      "print": "Plain",
+      "uom": "piece",
+      "annual_qty": 94000,
+      "nominal_weight_kg": 0.108
+    },
+    {
+      "line_id": "L30",
+      "item_code": "MF-PK-0030",
+      "description": "Die-cut tray 400 x 300 x 80 (new SKU)",
+      "kind": "TRAY",
+      "dimensions_mm": "400 x 300 x 80",
+      "ply": 3,
+      "board_spec": "Kraft 150 / Fluting 120 (B) / Kraft 150 GSM, BF 18",
+      "print": "2 colour",
+      "uom": "piece",
+      "annual_qty": 63000,
+      "nominal_weight_kg": 0.121
+    }
+  ],
+  "questionnaire": [
+    {
+      "qid": "Q1",
+      "rule": {
+        "op": "yes_and_valid_cert",
+        "cert": "ISO 9001"
+      },
+      "text": "Do you hold a valid ISO 9001 certificate? Please attach a copy.",
+      "type": "yes_no_attachment",
+      "criterion": "Must be Yes, with a certificate valid on the award date",
+      "knockout": true
+    },
+    {
+      "qid": "Q2",
+      "rule": {
+        "op": "yes"
+      },
+      "text": "Do you test every lot for BCT / ECT / burst strength (in-house lab or NABL-accredited lab)?",
+      "type": "yes_no",
+      "criterion": "Must be Yes",
+      "knockout": true
+    },
+    {
+      "qid": "Q3",
+      "rule": {
+        "op": ">=",
+        "value": 150
+      },
+      "text": "Installed corrugation capacity (MT per month)",
+      "type": "number",
+      "criterion": ">= 150 MT/month",
+      "knockout": true
+    },
+    {
+      "qid": "Q4",
+      "rule": {
+        "op": "<=",
+        "value": 1.5
+      },
+      "text": "Customer rejection rate (% of supplied quantity) over the last 12 months",
+      "type": "number",
+      "criterion": "<= 1.5%",
+      "knockout": true
+    },
+    {
+      "qid": "Q5",
+      "text": "Standard lead time from PO to delivery at Chakan (days)",
+      "type": "number",
+      "criterion": "<= 21 days preferred",
+      "knockout": false
+    },
+    {
+      "qid": "Q6",
+      "text": "Are printing inks low-migration / compliant with IS 15495 for food packaging?",
+      "type": "yes_no",
+      "criterion": "Yes preferred",
+      "knockout": false
+    },
+    {
+      "qid": "Q7",
+      "text": "Recycled fibre content of the board (%)",
+      "type": "number",
+      "criterion": "Information only",
+      "knockout": false
+    },
+    {
+      "qid": "Q8",
+      "text": "Number of FMCG / food customers currently supplied",
+      "type": "number",
+      "criterion": "Information only",
+      "knockout": false
+    },
+    {
+      "qid": "Q9",
+      "text": "Distance of manufacturing plant from Chakan (km)",
+      "type": "number",
+      "criterion": "Information only",
+      "knockout": false
+    },
+    {
+      "qid": "Q10",
+      "text": "Do you accept 60-day payment terms?",
+      "type": "yes_no",
+      "criterion": "Yes preferred",
+      "knockout": false
+    }
+  ],
+  "terms": {
+    "currency": "INR",
+    "price_basis": "Per piece (or per set for partitions), ex-GST, delivered to Chakan plant",
+    "payment_terms": "60 days from receipt of material",
+    "validity": "Prices firm for 12 months (Nov 2026 - Oct 2027)",
+    "delivery": "Call-off against monthly schedule, 14-21 day lead time",
+    "quote_due": "2026-10-10",
+    "gst": "Show GST separately"
+  },
+  "vendors_invited": [
+    {
+      "vendor_id": "V1",
+      "name": "Pacifica Packaging India Pvt. Ltd.",
+      "email": "bids@pacificapack.example"
+    },
+    {
+      "vendor_id": "V2",
+      "name": "Shree Ganesh Packaging Industries",
+      "email": "sales@shreeganeshpack.example"
+    },
+    {
+      "vendor_id": "V3",
+      "name": "Konkan Kraft Boxes LLP",
+      "email": "commercial@konkankraft.example"
+    },
+    {
+      "vendor_id": "V4",
+      "name": "Pioneer Packwell",
+      "email": "pioneerpackwell@mail.example"
+    },
+    {
+      "vendor_id": "V5",
+      "name": "Maruti Corrupack Pvt. Ltd.",
+      "email": "rajesh@maruticorrupack.example"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "from_name": "Salim Shaikh",
+  "from_company": "Pioneer Packwell",
+  "from_email": "pioneerpackwell@mail.example",
+  "to": "ritika.deshmukh@meghnafoods.example",
+  "subject": "rates",
+  "received_at": "2026-10-07T16:51:00+05:30",
+  "body": "madam pls find rate card photo. all sizes available. iso yes attached. testing yes we check every lot. capacity 180 ton month. rejection below 2%. delivery 10 days. payment 30% advance.\nregards salim\nPioneer Packwell\nSent from my phone",
+  "attachments": [
+    "IMG_20261007_164512.jpg",
+    "ISO_cert.pdf"
+  ]
+}

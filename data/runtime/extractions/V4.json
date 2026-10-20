@@ -1,0 +1,1352 @@
+{
+  "vendor_id": "V4",
+  "vendor_name": "Pioneer Packwell",
+  "folder": "V4_Pioneer",
+  "extracted_at": "2026-10-16T17:04:50",
+  "model": "gemini-3.8-flash",
+  "files": [
+    {
+      "file": "email body",
+      "kind": "email"
+    },
+    {
+      "file": "IMG_20261007_164512.jpg",
+      "kind": "image"
+    },
+    {
+      "file": "ISO_cert.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "result": {
+    "quote_reference": "RATE CARD 2026-27",
+    "quote_date": "2026-10-07",
+    "line_quotes": [
+      {
+        "vendor_item_text": "200x150x100 3 PLY",
+        "vendor_dims": "200x150x100",
+        "vendor_ply": 3,
+        "rfx_line_id": "L01",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 200x150x100 mm and 3-ply match RFx line L01",
+        "price_value": 4.2,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 1",
+          "verbatim": "200x150x100 3 4.2",
+          "bbox": [
+            174,
+            240,
+            203,
+            735
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "250x180x120 3 PLY",
+        "vendor_dims": "250x180x120",
+        "vendor_ply": 3,
+        "rfx_line_id": "L02",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 250x180x120 mm and 3-ply match RFx line L02",
+        "price_value": 6.5,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 2",
+          "verbatim": "250x180x120 3 6.5",
+          "bbox": [
+            198,
+            242,
+            226,
+            725
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "300x200x150 3 PLY",
+        "vendor_dims": "300x200x150",
+        "vendor_ply": 3,
+        "rfx_line_id": "L03",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 300x200x150 mm and 3-ply match RFx line L03",
+        "price_value": 8.1,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 3",
+          "verbatim": "300x200x150 3 8.1",
+          "bbox": [
+            215,
+            241,
+            242,
+            715
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "320x240x180 3 PLY",
+        "vendor_dims": "320x240x180",
+        "vendor_ply": 3,
+        "rfx_line_id": "L04",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 320x240x180 mm and 3-ply match RFx line L04",
+        "price_value": 12.0,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 4",
+          "verbatim": "320x240x180 3 12.0",
+          "bbox": [
+            234,
+            237,
+            263,
+            715
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "350x250x200 3 PLY",
+        "vendor_dims": "350x250x200",
+        "vendor_ply": 3,
+        "rfx_line_id": "L05",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 350x250x200 mm and 3-ply match RFx line L05",
+        "price_value": 12.0,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 5",
+          "verbatim": "350x250x200 3 12.0",
+          "bbox": [
+            253,
+            233,
+            281,
+            710
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "380x280x220 3 PLY",
+        "vendor_dims": "380x280x220",
+        "vendor_ply": 3,
+        "rfx_line_id": "L06",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 380x280x220 mm and 3-ply match RFx line L06",
+        "price_value": 14.5,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 6",
+          "verbatim": "380x280x220 3 14.5",
+          "bbox": [
+            272,
+            230,
+            301,
+            706
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "400x300x200 3 PLY",
+        "vendor_dims": "400x300x200",
+        "vendor_ply": 3,
+        "rfx_line_id": "L07",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 400x300x200 mm and 3-ply match RFx line L07",
+        "price_value": 17.9,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 7",
+          "verbatim": "400x300x200 3 17.9",
+          "bbox": [
+            292,
+            226,
+            321,
+            699
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "420x320x250 3 PLY",
+        "vendor_dims": "420x320x250",
+        "vendor_ply": 3,
+        "rfx_line_id": "L08",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 420x320x250 mm and 3-ply match RFx line L08",
+        "price_value": 18.0,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 8",
+          "verbatim": "420x320x250 3 18.0",
+          "bbox": [
+            311,
+            222,
+            341,
+            693
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "450x350x250 3 PLY",
+        "vendor_dims": "450x350x250",
+        "vendor_ply": 3,
+        "rfx_line_id": "L09",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 450x350x250 mm and 3-ply match RFx line L09",
+        "price_value": 20.9,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 9",
+          "verbatim": "450x350x250 3 20.9",
+          "bbox": [
+            330,
+            219,
+            360,
+            687
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "480x360x300 3 PLY",
+        "vendor_dims": "480x360x300",
+        "vendor_ply": 3,
+        "rfx_line_id": "L10",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 480x360x300 mm and 3-ply match RFx line L10",
+        "price_value": 23.9,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 10",
+          "verbatim": "480x360x300 3 23.9",
+          "bbox": [
+            351,
+            215,
+            379,
+            680
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "Pad 590x390 3 PLY",
+        "vendor_dims": "590x390",
+        "vendor_ply": 3,
+        "rfx_line_id": "L29",
+        "match_confidence": "high",
+        "match_reason": "Layer pad 590x390 mm and 3-ply match RFx line L29",
+        "price_value": 516.0,
+        "currency": "INR",
+        "price_basis": "per_100",
+        "bundle_size": 100,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 11",
+          "verbatim": "Pad 590x390 3 516 /100",
+          "bbox": [
+            370,
+            213,
+            401,
+            713
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "Partition 12 cell 3 PLY",
+        "vendor_dims": null,
+        "vendor_ply": 3,
+        "rfx_line_id": "L27",
+        "match_confidence": "high",
+        "match_reason": "Partition set 12-cell and 3-ply match RFx line L27",
+        "price_value": 5.3,
+        "currency": "INR",
+        "price_basis": "per_set",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 12",
+          "verbatim": "Partition 12 cell 3 5.3",
+          "bbox": [
+            390,
+            206,
+            423,
+            663
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "Partition 24 cell 3 PLY",
+        "vendor_dims": null,
+        "vendor_ply": 3,
+        "rfx_line_id": "L28",
+        "match_confidence": "high",
+        "match_reason": "Partition set 24-cell and 3-ply match RFx line L28",
+        "price_value": 8.0,
+        "currency": "INR",
+        "price_basis": "per_set",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 13",
+          "verbatim": "Partition 24 cell 3 8.0",
+          "bbox": [
+            410,
+            201,
+            444,
+            659
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "300x250x200 5 PLY",
+        "vendor_dims": "300x250x200",
+        "vendor_ply": 5,
+        "rfx_line_id": "L11",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 300x250x200 mm and 5-ply match RFx line L11",
+        "price_value": 21.3,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 14",
+          "verbatim": "300x250x200 5 21.3",
+          "bbox": [
+            430,
+            202,
+            458,
+            663
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "300x300x300 5 PLY",
+        "vendor_dims": "300x300x300",
+        "vendor_ply": 5,
+        "rfx_line_id": null,
+        "match_confidence": "low",
+        "match_reason": "No RFx line requests 300x300x300 mm 5-ply",
+        "price_value": 21.5,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 15",
+          "verbatim": "300x300x300 5 21.5",
+          "bbox": [
+            449,
+            198,
+            477,
+            661
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "350x280x220 5 PLY",
+        "vendor_dims": "350x280x220",
+        "vendor_ply": 5,
+        "rfx_line_id": "L12",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 350x280x220 mm and 5-ply match RFx line L12",
+        "price_value": 27.2,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 16",
+          "verbatim": "350x280x220 5 27.2",
+          "bbox": [
+            468,
+            194,
+            497,
+            660
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "380x300x250 5 PLY",
+        "vendor_dims": "380x300x250",
+        "vendor_ply": 5,
+        "rfx_line_id": "L13",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 380x300x250 mm and 5-ply match RFx line L13",
+        "price_value": 32.9,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 17",
+          "verbatim": "380x300x250 5 32.9",
+          "bbox": [
+            489,
+            189,
+            518,
+            655
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "400x300x300 5 PLY",
+        "vendor_dims": "400x300x300",
+        "vendor_ply": 5,
+        "rfx_line_id": "L14",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 400x300x300 mm and 5-ply match RFx line L14",
+        "price_value": 35.3,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 18",
+          "verbatim": "400x300x300 5 35.3",
+          "bbox": [
+            508,
+            184,
+            537,
+            652
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "420x320x280 5 PLY",
+        "vendor_dims": "420x320x280",
+        "vendor_ply": 5,
+        "rfx_line_id": "L15",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 420x320x280 mm and 5-ply match RFx line L15",
+        "price_value": 37.8,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 19",
+          "verbatim": "420x320x280 5 37.8",
+          "bbox": [
+            530,
+            182,
+            558,
+            649
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "450x350x300 5 PLY",
+        "vendor_dims": "450x350x300",
+        "vendor_ply": 5,
+        "rfx_line_id": "L16",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 450x350x300 mm and 5-ply match RFx line L16",
+        "price_value": 40.1,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 20",
+          "verbatim": "450x350x300 5 40.1",
+          "bbox": [
+            550,
+            178,
+            579,
+            646
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "480x360x320 5 PLY",
+        "vendor_dims": "480x360x320",
+        "vendor_ply": 5,
+        "rfx_line_id": "L17",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 480x360x320 mm and 5-ply match RFx line L17",
+        "price_value": 47.3,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 21",
+          "verbatim": "480x360x320 5 47.3",
+          "bbox": [
+            569,
+            173,
+            599,
+            644
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "500x380x320 5 PLY",
+        "vendor_dims": "500x380x320",
+        "vendor_ply": 5,
+        "rfx_line_id": "L18",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 500x380x320 mm and 5-ply match RFx line L18",
+        "price_value": 46.6,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 22",
+          "verbatim": "500x380x320 5 46.6",
+          "bbox": [
+            589,
+            171,
+            617,
+            638
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "550x420x380 5 PLY",
+        "vendor_dims": "550x420x380",
+        "vendor_ply": 5,
+        "rfx_line_id": "L20",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 550x420x380 mm and 5-ply match RFx line L20",
+        "price_value": 65.9,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 23",
+          "verbatim": "550x420x380 5 65.9",
+          "bbox": [
+            611,
+            168,
+            638,
+            637
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "600x400x400 5 PLY",
+        "vendor_dims": "600x400x400",
+        "vendor_ply": 5,
+        "rfx_line_id": "L21",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 600x400x400 mm and 5-ply match RFx line L21",
+        "price_value": 63.9,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 24",
+          "verbatim": "600x400x400 5 63.9",
+          "bbox": [
+            631,
+            163,
+            658,
+            632
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "600x450x450 5 PLY",
+        "vendor_dims": "600x450x450",
+        "vendor_ply": 5,
+        "rfx_line_id": "L22",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 600x450x450 mm and 5-ply match RFx line L22",
+        "price_value": 79.1,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 25",
+          "verbatim": "600x450x450 5 79.1",
+          "bbox": [
+            652,
+            162,
+            679,
+            630
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "610x410x300 5 PLY",
+        "vendor_dims": "610x410x300",
+        "vendor_ply": 5,
+        "rfx_line_id": null,
+        "match_confidence": "low",
+        "match_reason": "No RFx line requests 610x410x300 mm 5-ply",
+        "price_value": 44.0,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 26",
+          "verbatim": "610x410x300 5 44.0",
+          "bbox": [
+            672,
+            157,
+            700,
+            626
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "400x400x350 7 PLY",
+        "vendor_dims": "400x400x350",
+        "vendor_ply": 7,
+        "rfx_line_id": "L23",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 400x400x350 mm and 7-ply match RFx line L23",
+        "price_value": 81.0,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 27",
+          "verbatim": "400x400x350 7 81.0",
+          "bbox": [
+            691,
+            151,
+            720,
+            622
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "450x450x400 7 PLY",
+        "vendor_dims": "450x450x400",
+        "vendor_ply": 7,
+        "rfx_line_id": "L24",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 450x450x400 mm and 7-ply match RFx line L24",
+        "price_value": 106.2,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 28",
+          "verbatim": "450x450x400 7 106.2",
+          "bbox": [
+            712,
+            147,
+            741,
+            629
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "600x500x500 7 PLY",
+        "vendor_dims": "600x500x500",
+        "vendor_ply": 7,
+        "rfx_line_id": "L25",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 600x500x500 mm and 7-ply match RFx line L25",
+        "price_value": 150.4,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 29",
+          "verbatim": "600x500x500 7 150.4",
+          "bbox": [
+            732,
+            141,
+            762,
+            626
+          ]
+        }
+      },
+      {
+        "vendor_item_text": "800x600x600 7 PLY",
+        "vendor_dims": "800x600x600",
+        "vendor_ply": 7,
+        "rfx_line_id": "L26",
+        "match_confidence": "high",
+        "match_reason": "Dimensions 800x600x600 mm and 7-ply match RFx line L26",
+        "price_value": 233.3,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "inclusive",
+        "gst_rate_pct": null,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 30",
+          "verbatim": "800x600x600 7 233.3",
+          "bbox": [
+            753,
+            137,
+            782,
+            624
+          ]
+        }
+      }
+    ],
+    "bulk_rules": [],
+    "terms": {
+      "freight_basis": "included",
+      "freight_value": null,
+      "freight_text": "Transport free up to 50 km.",
+      "gst_text": "Rates incl. GST.",
+      "payment_terms_days": 15,
+      "payment_text": "30% advance with PO, balance 15 days.",
+      "advance_payment_pct": 30.0,
+      "validity_text": null,
+      "lead_time_days": 10,
+      "price_variation_clause": null,
+      "discounts": [],
+      "other_notes": [
+        "Pads rate per 100 nos.",
+        "Vendor plant located at Bhosari, Pune."
+      ],
+      "source_notes": [
+        {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 31",
+          "verbatim": "* Rates incl. GST. Transport free up to 50 km.",
+          "bbox": [
+            784,
+            126,
+            831,
+            406
+          ]
+        },
+        {
+          "file": "IMG_20261007_164512.jpg",
+          "locator": "photo row 32",
+          "verbatim": "* 30% advance with PO, balance 15 days.",
+          "bbox": [
+            798,
+            126,
+            843,
+            382
+          ]
+        },
+        {
+          "file": "email body",
+          "locator": "para 1",
+          "verbatim": "delivery 10 days. payment 30% advance."
+        }
+      ]
+    },
+    "questionnaire": [
+      {
+        "qid": "Q1",
+        "answered": true,
+        "answer_text": "iso yes attached",
+        "value_bool": true,
+        "value_number": null,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "email body",
+          "locator": "para 1",
+          "verbatim": "iso yes attached."
+        }
+      },
+      {
+        "qid": "Q2",
+        "answered": true,
+        "answer_text": "testing yes we check every lot",
+        "value_bool": true,
+        "value_number": null,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "email body",
+          "locator": "para 1",
+          "verbatim": "testing yes we check every lot."
+        }
+      },
+      {
+        "qid": "Q3",
+        "answered": true,
+        "answer_text": "capacity 180 ton month",
+        "value_bool": null,
+        "value_number": 180.0,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "email body",
+          "locator": "para 1",
+          "verbatim": "capacity 180 ton month."
+        }
+      },
+      {
+        "qid": "Q4",
+        "answered": true,
+        "answer_text": "rejection below 2%",
+        "value_bool": null,
+        "value_number": null,
+        "is_range": true,
+        "range_low": null,
+        "range_high": 2.0,
+        "is_vague": true,
+        "source": {
+          "file": "email body",
+          "locator": "para 1",
+          "verbatim": "rejection below 2%."
+        }
+      },
+      {
+        "qid": "Q5",
+        "answered": true,
+        "answer_text": "delivery 10 days",
+        "value_bool": null,
+        "value_number": 10.0,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "email body",
+          "locator": "para 1",
+          "verbatim": "delivery 10 days."
+        }
+      },
+      {
+        "qid": "Q6",
+        "answered": false,
+        "answer_text": null,
+        "value_bool": null,
+        "value_number": null,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": null
+      },
+      {
+        "qid": "Q7",
+        "answered": false,
+        "answer_text": null,
+        "value_bool": null,
+        "value_number": null,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": null
+      },
+      {
+        "qid": "Q8",
+        "answered": false,
+        "answer_text": null,
+        "value_bool": null,
+        "value_number": null,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": null
+      },
+      {
+        "qid": "Q9",
+        "answered": false,
+        "answer_text": null,
+        "value_bool": null,
+        "value_number": null,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": null
+      },
+      {
+        "qid": "Q10",
+        "answered": true,
+        "answer_text": "payment 30% advance; 30% advance with PO, balance 15 days.",
+        "value_bool": false,
+        "value_number": null,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "email body",
+          "locator": "para 1",
+          "verbatim": "payment 30% advance."
+        }
+      }
+    ],
+    "certificates": [
+      {
+        "standard": "ISO 9001:2015",
+        "holder": "Pioneer Packwell",
+        "certificate_no": "QCS-QM-15530",
+        "valid_until": "2025-03-31",
+        "file": "ISO_cert.pdf"
+      }
+    ],
+    "reader_notes": [
+      "The attached ISO 9001:2015 certificate (Certificate No. QCS-QM-15530) expired on 31-Mar-2025 and is no longer valid at the time of quotation (October 2026).",
+      "Pricing is quoted inclusive of GST ('RATE Rs. (incl. GST)'), contrary to RFx instruction requesting ex-GST rates.",
+      "Payment terms offered are 30% advance with PO and balance in 15 days, rejecting the requested 60-day credit term.",
+      "Transport is stated as free up to 50 km from the vendor's location in Bhosari, Pune (Chakan is approx. 18-20 km away).",
+      "Lines L19 (520x400x350 mm 5-ply) and L30 (Die-cut tray 400x300x80 mm 3-ply) were not quoted.",
+      "Vendor quoted two items not listed in the RFx: 300x300x300 mm 5-ply (Rs 21.5) and 610x410x300 mm 5-ply (Rs 44.0)."
+    ]
+  },
+  "second_read": {
+    "model": "gemini-3.8-flash",
+    "rows": [
+      {
+        "printed_item": "200x150x100",
+        "printed_ply": "3",
+        "printed_price": "4.2",
+        "rfx_line_id": "L01"
+      },
+      {
+        "printed_item": "250x180x120",
+        "printed_ply": "3",
+        "printed_price": "6.5",
+        "rfx_line_id": "L02"
+      },
+      {
+        "printed_item": "300x200x150",
+        "printed_ply": "3",
+        "printed_price": "8.1",
+        "rfx_line_id": "L03"
+      },
+      {
+        "printed_item": "320x240x180",
+        "printed_ply": "3",
+        "printed_price": "12.0",
+        "rfx_line_id": "L04"
+      },
+      {
+        "printed_item": "350x250x200",
+        "printed_ply": "3",
+        "printed_price": "12.0",
+        "rfx_line_id": "L05"
+      },
+      {
+        "printed_item": "380x280x220",
+        "printed_ply": "3",
+        "printed_price": "14.5",
+        "rfx_line_id": "L06"
+      },
+      {
+        "printed_item": "400x300x200",
+        "printed_ply": "3",
+        "printed_price": "17.9",
+        "rfx_line_id": "L07"
+      },
+      {
+        "printed_item": "420x320x250",
+        "printed_ply": "3",
+        "printed_price": "18.0",
+        "rfx_line_id": "L08"
+      },
+      {
+        "printed_item": "450x350x250",
+        "printed_ply": "3",
+        "printed_price": "20.9",
+        "rfx_line_id": "L09"
+      },
+      {
+        "printed_item": "480x360x300",
+        "printed_ply": "3",
+        "printed_price": "23.9",
+        "rfx_line_id": "L10"
+      },
+      {
+        "printed_item": "Pad 590x390",
+        "printed_ply": "3",
+        "printed_price": "516 /100",
+        "rfx_line_id": "L29"
+      },
+      {
+        "printed_item": "Partition 12 cell",
+        "printed_ply": "3",
+        "printed_price": "5.3",
+        "rfx_line_id": "L27"
+      },
+      {
+        "printed_item": "Partition 24 cell",
+        "printed_ply": "3",
+        "printed_price": "8.0",
+        "rfx_line_id": "L28"
+      },
+      {
+        "printed_item": "300x250x200",
+        "printed_ply": "5",
+        "printed_price": "21.3",
+        "rfx_line_id": "L11"
+      },
+      {
+        "printed_item": "300x300x300",
+        "printed_ply": "5",
+        "printed_price": "21.5",
+        "rfx_line_id": null
+      },
+      {
+        "printed_item": "350x280x220",
+        "printed_ply": "5",
+        "printed_price": "27.2",
+        "rfx_line_id": "L12"
+      },
+      {
+        "printed_item": "380x300x250",
+        "printed_ply": "5",
+        "printed_price": "32.9",
+        "rfx_line_id": "L13"
+      },
+      {
+        "printed_item": "400x300x300",
+        "printed_ply": "5",
+        "printed_price": "35.3",
+        "rfx_line_id": "L14"
+      },
+      {
+        "printed_item": "420x320x280",
+        "printed_ply": "5",
+        "printed_price": "37.8",
+        "rfx_line_id": "L15"
+      },
+      {
+        "printed_item": "450x350x300",
+        "printed_ply": "5",
+        "printed_price": "40.1",
+        "rfx_line_id": "L16"
+      },
+      {
+        "printed_item": "480x360x320",
+        "printed_ply": "5",
+        "printed_price": "47.3",
+        "rfx_line_id": "L17"
+      },
+      {
+        "printed_item": "500x380x320",
+        "printed_ply": "5",
+        "printed_price": "46.6",
+        "rfx_line_id": "L18"
+      },
+      {
+        "printed_item": "550x420x380",
+        "printed_ply": "5",
+        "printed_price": "65.9",
+        "rfx_line_id": "L20"
+      },
+      {
+        "printed_item": "600x400x400",
+        "printed_ply": "5",
+        "printed_price": "63.9",
+        "rfx_line_id": "L21"
+      },
+      {
+        "printed_item": "600x450x450",
+        "printed_ply": "5",
+        "printed_price": "79.1",
+        "rfx_line_id": "L22"
+      },
+      {
+        "printed_item": "610x410x300",
+        "printed_ply": "5",
+        "printed_price": "44.0",
+        "rfx_line_id": null
+      },
+      {
+        "printed_item": "400x400x350",
+        "printed_ply": "7",
+        "printed_price": "81.0",
+        "rfx_line_id": "L23"
+      },
+      {
+        "printed_item": "450x450x400",
+        "printed_ply": "7",
+        "printed_price": "106.2",
+        "rfx_line_id": "L24"
+      },
+      {
+        "printed_item": "600x500x500",
+        "printed_ply": "7",
+        "printed_price": "150.4",
+        "rfx_line_id": "L25"
+      },
+      {
+        "printed_item": "800x600x600",
+        "printed_ply": "7",
+        "printed_price": "233.3",
+        "rfx_line_id": "L26"
+      }
+    ]
+  }
+}

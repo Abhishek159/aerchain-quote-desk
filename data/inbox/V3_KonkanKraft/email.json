@@ -1,0 +1,13 @@
+{
+  "from_name": "Anjali Sawant, Commercial Head",
+  "from_company": "Konkan Kraft Boxes LLP",
+  "from_email": "commercial@konkankraft.example",
+  "to": "ritika.deshmukh@meghnafoods.example",
+  "subject": "Konkan Kraft - offer for MFPL/PKG/RFQ/2026-27/014",
+  "received_at": "2026-10-09T19:20:00+05:30",
+  "body": "Dear Ritika,\n\nPlease find our offer letter attached, along with our ISO certificate. Happy to come over to Chakan to walk you through it.\n\nRegards,\nAnjali",
+  "attachments": [
+    "KonkanKraft_Offer_Letter.docx",
+    "KonkanKraft_ISO9001.pdf"
+  ]
+}

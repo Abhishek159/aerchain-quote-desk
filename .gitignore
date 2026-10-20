@@ -1,0 +1,23 @@
+# secrets - never upload
+.env
+.streamlit/secrets.toml
+
+# local environment
+.venv/
+__pycache__/
+.DS_Store
+~$*
+
+# runtime state: keep the saved extractions (so the hosted demo starts read),
+# drop logs, exports, overrides and drafts
+data/runtime/*
+!data/runtime/extractions/
+data/runtime/extractions/*
+!data/runtime/extractions/V1.json
+!data/runtime/extractions/V2.json
+!data/runtime/extractions/V3.json
+!data/runtime/extractions/V4.json
+!data/runtime/extractions/V5.json
+
+# the assignment brief is confidential - never publish it
+/Aerchain-Product-Assignment*.pdf

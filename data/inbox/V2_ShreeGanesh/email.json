@@ -1,0 +1,13 @@
+{
+  "from_name": "Prakash Kulkarni, Proprietor",
+  "from_company": "Shree Ganesh Packaging Industries",
+  "from_email": "sales@shreeganeshpack.example",
+  "to": "ritika.deshmukh@meghnafoods.example",
+  "subject": "Quotation against MFPL/PKG/RFQ/2026-27/014",
+  "received_at": "2026-10-08T11:05:00+05:30",
+  "body": "Respected Madam,\n\nWith reference to your enquiry we are pleased to submit our best rates. Kindly find attached quotation and ISO certificate.\n\nThanking you,\nPrakash Kulkarni\nShree Ganesh Packaging Industries",
+  "attachments": [
+    "SGPI_Quotation_SG-2627-118.pdf",
+    "SGPI_ISO_Certificate.pdf"
+  ]
+}

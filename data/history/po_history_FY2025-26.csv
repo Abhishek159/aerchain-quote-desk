@@ -1,0 +1,113 @@
+po_number,po_date,vendor,item_code,description,qty,uom,unit_price_inr,gst_pct
+4500120,2025-05-23,Maruti Corrupack Pvt. Ltd.,MF-PK-0001,Shipper carton - Namkeen 40g x 24,41800,piece,4.46,12
+4500121,2025-05-14,Maruti Corrupack Pvt. Ltd.,MF-PK-0002,Shipper carton - Namkeen 80g x 24,32400,piece,6.68,12
+4500122,2025-05-22,Maruti Corrupack Pvt. Ltd.,MF-PK-0003,Shipper carton - Chips 52g x 30,24600,piece,8.1,12
+4500123,2025-05-20,Maruti Corrupack Pvt. Ltd.,MF-PK-0004,Shipper carton - Chips family pack x 12,20100,piece,10.76,12
+4500124,2025-05-21,Maruti Corrupack Pvt. Ltd.,MF-PK-0005,Shipper carton - Rusk 300g x 16,15300,piece,12.42,12
+4500125,2025-05-11,Maruti Corrupack Pvt. Ltd.,MF-PK-0006,Shipper carton - Mixture 1kg x 10,16200,piece,14.89,12
+4500126,2025-05-13,Maruti Corrupack Pvt. Ltd.,MF-PK-0007,Shipper carton - Cookies tin x 12,14100,piece,16.19,12
+4500127,2025-05-14,Maruti Corrupack Pvt. Ltd.,MF-PK-0008,Shipper carton - Assorted gift x 8,8200,piece,18.03,12
+4500128,2025-05-24,Maruti Corrupack Pvt. Ltd.,MF-PK-0009,Shipper carton - Bulk namkeen 5kg x 4,8300,piece,20.55,12
+4500129,2025-05-23,Maruti Corrupack Pvt. Ltd.,MF-PK-0010,Shipper carton - Institutional pack,6300,piece,25.03,12
+4500130,2025-05-06,Maruti Corrupack Pvt. Ltd.,MF-PK-0011,Master carton - Biscuit 75g x 48,26400,piece,20.06,12
+4500131,2025-05-05,Maruti Corrupack Pvt. Ltd.,MF-PK-0012,Master carton - Biscuit 150g x 36,21500,piece,27.56,12
+4500132,2025-05-06,Maruti Corrupack Pvt. Ltd.,MF-PK-0013,Master carton - Cream biscuit 120g x 40,21100,piece,31.47,12
+4500133,2025-05-23,Maruti Corrupack Pvt. Ltd.,MF-PK-0014,Master carton - Glucose 800g x 12,19400,piece,35.16,12
+4500134,2025-05-05,Maruti Corrupack Pvt. Ltd.,MF-PK-0015,Master carton - Juice 200ml x 27,13300,piece,37.82,12
+4500135,2025-05-24,Maruti Corrupack Pvt. Ltd.,MF-PK-0016,Master carton - Juice 1L x 12,13400,piece,41.86,12
+4500136,2025-05-07,Maruti Corrupack Pvt. Ltd.,MF-PK-0017,Master carton - Soda 600ml x 24,14300,piece,46.45,12
+4500137,2025-05-21,Maruti Corrupack Pvt. Ltd.,MF-PK-0018,Master carton - Water 1L x 12,9800,piece,52.41,12
+4500138,2025-05-17,Maruti Corrupack Pvt. Ltd.,MF-PK-0019,Gift pack shipper - Diwali hamper,7900,piece,58.0,12
+4500139,2025-05-18,Maruti Corrupack Pvt. Ltd.,MF-PK-0020,Master carton - Ghee 1L x 12,6600,piece,62.04,12
+4500140,2025-05-03,Maruti Corrupack Pvt. Ltd.,MF-PK-0021,Master carton - Atta 5kg x 4,4400,piece,61.58,12
+4500141,2025-05-11,Maruti Corrupack Pvt. Ltd.,MF-PK-0022,Master carton - Sugar 5kg x 5,3600,piece,75.14,12
+4500142,2025-05-24,Maruti Corrupack Pvt. Ltd.,MF-PK-0023,Heavy-duty carton - Edible oil 15L tin,4800,piece,85.0,12
+4500143,2025-05-19,Maruti Corrupack Pvt. Ltd.,MF-PK-0024,Heavy-duty carton - Oil 5L jar x 4,3400,piece,109.48,12
+4500144,2025-05-10,Maruti Corrupack Pvt. Ltd.,MF-PK-0025,Heavy-duty carton - Bulk ingredients 20kg,2400,piece,153.31,12
+4500145,2025-05-03,Maruti Corrupack Pvt. Ltd.,MF-PK-0027,Partition set 12-cell (fits L11),35500,set,5.48,12
+4500146,2025-05-06,Maruti Corrupack Pvt. Ltd.,MF-PK-0028,Partition set 24-cell (fits L16),21000,set,8.43,12
+4500147,2025-05-15,Maruti Corrupack Pvt. Ltd.,MF-PK-0029,Layer pad 590 x 390 mm,22600,piece,5.32,12
+4500148,2025-08-12,Maruti Corrupack Pvt. Ltd.,MF-PK-0001,Shipper carton - Namkeen 40g x 24,36000,piece,4.46,12
+4500149,2025-08-13,Maruti Corrupack Pvt. Ltd.,MF-PK-0002,Shipper carton - Namkeen 80g x 24,24200,piece,6.68,12
+4500150,2025-08-07,Maruti Corrupack Pvt. Ltd.,MF-PK-0003,Shipper carton - Chips 52g x 30,21900,piece,8.1,12
+4500151,2025-08-21,Maruti Corrupack Pvt. Ltd.,MF-PK-0004,Shipper carton - Chips family pack x 12,20700,piece,10.76,12
+4500152,2025-08-25,Maruti Corrupack Pvt. Ltd.,MF-PK-0005,Shipper carton - Rusk 300g x 16,14800,piece,12.42,12
+4500153,2025-08-09,Maruti Corrupack Pvt. Ltd.,MF-PK-0006,Shipper carton - Mixture 1kg x 10,14300,piece,14.89,12
+4500154,2025-08-17,Maruti Corrupack Pvt. Ltd.,MF-PK-0007,Shipper carton - Cookies tin x 12,10700,piece,16.19,12
+4500155,2025-08-23,Maruti Corrupack Pvt. Ltd.,MF-PK-0008,Shipper carton - Assorted gift x 8,8200,piece,18.03,12
+4500156,2025-08-17,Maruti Corrupack Pvt. Ltd.,MF-PK-0009,Shipper carton - Bulk namkeen 5kg x 4,7600,piece,20.55,12
+4500157,2025-08-15,Maruti Corrupack Pvt. Ltd.,MF-PK-0010,Shipper carton - Institutional pack,6800,piece,25.03,12
+4500158,2025-08-16,Shree Ganesh Packaging Industries,MF-PK-0011,Master carton - Biscuit 75g x 48,21700,piece,20.46,12
+4500159,2025-08-16,Shree Ganesh Packaging Industries,MF-PK-0012,Master carton - Biscuit 150g x 36,25100,piece,28.11,12
+4500160,2025-08-03,Shree Ganesh Packaging Industries,MF-PK-0013,Master carton - Cream biscuit 120g x 40,18200,piece,32.1,12
+4500161,2025-08-25,Maruti Corrupack Pvt. Ltd.,MF-PK-0014,Master carton - Glucose 800g x 12,17100,piece,35.16,12
+4500162,2025-08-15,Maruti Corrupack Pvt. Ltd.,MF-PK-0015,Master carton - Juice 200ml x 27,17200,piece,37.82,12
+4500163,2025-08-06,Maruti Corrupack Pvt. Ltd.,MF-PK-0016,Master carton - Juice 1L x 12,15300,piece,41.86,12
+4500164,2025-08-10,Maruti Corrupack Pvt. Ltd.,MF-PK-0017,Master carton - Soda 600ml x 24,11300,piece,46.45,12
+4500165,2025-08-05,Maruti Corrupack Pvt. Ltd.,MF-PK-0018,Master carton - Water 1L x 12,10100,piece,52.41,12
+4500166,2025-08-05,Maruti Corrupack Pvt. Ltd.,MF-PK-0019,Gift pack shipper - Diwali hamper,7800,piece,58.0,12
+4500167,2025-08-24,Maruti Corrupack Pvt. Ltd.,MF-PK-0020,Master carton - Ghee 1L x 12,6300,piece,62.04,12
+4500168,2025-08-03,Maruti Corrupack Pvt. Ltd.,MF-PK-0021,Master carton - Atta 5kg x 4,4300,piece,61.58,12
+4500169,2025-08-24,Maruti Corrupack Pvt. Ltd.,MF-PK-0022,Master carton - Sugar 5kg x 5,4100,piece,75.14,12
+4500170,2025-08-12,Maruti Corrupack Pvt. Ltd.,MF-PK-0023,Heavy-duty carton - Edible oil 15L tin,5100,piece,85.0,12
+4500171,2025-08-16,Maruti Corrupack Pvt. Ltd.,MF-PK-0024,Heavy-duty carton - Oil 5L jar x 4,3900,piece,109.48,12
+4500172,2025-08-26,Maruti Corrupack Pvt. Ltd.,MF-PK-0025,Heavy-duty carton - Bulk ingredients 20kg,1900,piece,153.31,12
+4500173,2025-08-05,Maruti Corrupack Pvt. Ltd.,MF-PK-0027,Partition set 12-cell (fits L11),33400,set,5.48,12
+4500174,2025-08-08,Maruti Corrupack Pvt. Ltd.,MF-PK-0028,Partition set 24-cell (fits L16),20200,set,8.43,12
+4500175,2025-08-17,Maruti Corrupack Pvt. Ltd.,MF-PK-0029,Layer pad 590 x 390 mm,24800,piece,5.32,12
+4500176,2025-11-15,Maruti Corrupack Pvt. Ltd.,MF-PK-0001,Shipper carton - Namkeen 40g x 24,33300,piece,4.46,5
+4500177,2025-11-14,Maruti Corrupack Pvt. Ltd.,MF-PK-0002,Shipper carton - Namkeen 80g x 24,28000,piece,6.68,5
+4500178,2025-11-24,Maruti Corrupack Pvt. Ltd.,MF-PK-0003,Shipper carton - Chips 52g x 30,22400,piece,8.1,5
+4500179,2025-11-18,Maruti Corrupack Pvt. Ltd.,MF-PK-0004,Shipper carton - Chips family pack x 12,19100,piece,10.76,5
+4500180,2025-11-12,Maruti Corrupack Pvt. Ltd.,MF-PK-0005,Shipper carton - Rusk 300g x 16,13600,piece,12.42,5
+4500181,2025-11-22,Maruti Corrupack Pvt. Ltd.,MF-PK-0006,Shipper carton - Mixture 1kg x 10,14800,piece,14.89,5
+4500182,2025-11-07,Maruti Corrupack Pvt. Ltd.,MF-PK-0007,Shipper carton - Cookies tin x 12,14000,piece,16.19,5
+4500183,2025-11-11,Maruti Corrupack Pvt. Ltd.,MF-PK-0008,Shipper carton - Assorted gift x 8,9400,piece,18.03,5
+4500184,2025-11-12,Maruti Corrupack Pvt. Ltd.,MF-PK-0009,Shipper carton - Bulk namkeen 5kg x 4,8000,piece,20.55,5
+4500185,2025-11-07,Maruti Corrupack Pvt. Ltd.,MF-PK-0010,Shipper carton - Institutional pack,5400,piece,25.03,5
+4500186,2025-11-03,Maruti Corrupack Pvt. Ltd.,MF-PK-0011,Master carton - Biscuit 75g x 48,24700,piece,20.06,5
+4500187,2025-11-18,Maruti Corrupack Pvt. Ltd.,MF-PK-0012,Master carton - Biscuit 150g x 36,21100,piece,27.56,5
+4500188,2025-11-12,Maruti Corrupack Pvt. Ltd.,MF-PK-0013,Master carton - Cream biscuit 120g x 40,18200,piece,31.47,5
+4500189,2025-11-26,Maruti Corrupack Pvt. Ltd.,MF-PK-0014,Master carton - Glucose 800g x 12,15500,piece,35.16,5
+4500190,2025-11-03,Maruti Corrupack Pvt. Ltd.,MF-PK-0015,Master carton - Juice 200ml x 27,14300,piece,37.82,5
+4500191,2025-11-05,Maruti Corrupack Pvt. Ltd.,MF-PK-0016,Master carton - Juice 1L x 12,16300,piece,41.86,5
+4500192,2025-11-21,Maruti Corrupack Pvt. Ltd.,MF-PK-0017,Master carton - Soda 600ml x 24,11400,piece,46.45,5
+4500193,2025-11-12,Maruti Corrupack Pvt. Ltd.,MF-PK-0018,Master carton - Water 1L x 12,12100,piece,52.41,5
+4500194,2025-11-21,Maruti Corrupack Pvt. Ltd.,MF-PK-0019,Gift pack shipper - Diwali hamper,7900,piece,58.0,5
+4500195,2025-11-22,Maruti Corrupack Pvt. Ltd.,MF-PK-0020,Master carton - Ghee 1L x 12,6800,piece,62.04,5
+4500196,2025-11-08,Maruti Corrupack Pvt. Ltd.,MF-PK-0021,Master carton - Atta 5kg x 4,4500,piece,61.58,5
+4500197,2025-11-20,Maruti Corrupack Pvt. Ltd.,MF-PK-0022,Master carton - Sugar 5kg x 5,4100,piece,75.14,5
+4500198,2025-11-13,Maruti Corrupack Pvt. Ltd.,MF-PK-0023,Heavy-duty carton - Edible oil 15L tin,5200,piece,85.0,5
+4500199,2025-11-16,Maruti Corrupack Pvt. Ltd.,MF-PK-0024,Heavy-duty carton - Oil 5L jar x 4,3500,piece,109.48,5
+4500200,2025-11-04,Maruti Corrupack Pvt. Ltd.,MF-PK-0025,Heavy-duty carton - Bulk ingredients 20kg,2100,piece,153.31,5
+4500201,2025-11-11,Maruti Corrupack Pvt. Ltd.,MF-PK-0027,Partition set 12-cell (fits L11),28300,set,5.48,5
+4500202,2025-11-09,Maruti Corrupack Pvt. Ltd.,MF-PK-0028,Partition set 24-cell (fits L16),20700,set,8.43,5
+4500203,2025-11-09,Maruti Corrupack Pvt. Ltd.,MF-PK-0029,Layer pad 590 x 390 mm,20700,piece,5.32,5
+4500204,2026-02-26,Maruti Corrupack Pvt. Ltd.,MF-PK-0001,Shipper carton - Namkeen 40g x 24,34600,piece,4.46,5
+4500205,2026-02-15,Maruti Corrupack Pvt. Ltd.,MF-PK-0002,Shipper carton - Namkeen 80g x 24,26300,piece,6.68,5
+4500206,2026-02-17,Maruti Corrupack Pvt. Ltd.,MF-PK-0003,Shipper carton - Chips 52g x 30,20700,piece,8.1,5
+4500207,2026-02-06,Maruti Corrupack Pvt. Ltd.,MF-PK-0004,Shipper carton - Chips family pack x 12,18600,piece,10.76,5
+4500208,2026-02-22,Maruti Corrupack Pvt. Ltd.,MF-PK-0005,Shipper carton - Rusk 300g x 16,16900,piece,12.42,5
+4500209,2026-02-05,Maruti Corrupack Pvt. Ltd.,MF-PK-0006,Shipper carton - Mixture 1kg x 10,15100,piece,14.89,5
+4500210,2026-02-20,Maruti Corrupack Pvt. Ltd.,MF-PK-0007,Shipper carton - Cookies tin x 12,13700,piece,16.19,5
+4500211,2026-02-10,Maruti Corrupack Pvt. Ltd.,MF-PK-0008,Shipper carton - Assorted gift x 8,8200,piece,18.03,5
+4500212,2026-02-20,Maruti Corrupack Pvt. Ltd.,MF-PK-0009,Shipper carton - Bulk namkeen 5kg x 4,7200,piece,20.55,5
+4500213,2026-02-20,Maruti Corrupack Pvt. Ltd.,MF-PK-0010,Shipper carton - Institutional pack,7100,piece,25.03,5
+4500214,2026-02-21,Shree Ganesh Packaging Industries,MF-PK-0011,Master carton - Biscuit 75g x 48,22600,piece,20.46,5
+4500215,2026-02-20,Shree Ganesh Packaging Industries,MF-PK-0012,Master carton - Biscuit 150g x 36,19200,piece,28.11,5
+4500216,2026-02-14,Shree Ganesh Packaging Industries,MF-PK-0013,Master carton - Cream biscuit 120g x 40,21000,piece,32.1,5
+4500217,2026-02-23,Maruti Corrupack Pvt. Ltd.,MF-PK-0014,Master carton - Glucose 800g x 12,17100,piece,35.16,5
+4500218,2026-02-06,Maruti Corrupack Pvt. Ltd.,MF-PK-0015,Master carton - Juice 200ml x 27,13700,piece,37.82,5
+4500219,2026-02-26,Maruti Corrupack Pvt. Ltd.,MF-PK-0016,Master carton - Juice 1L x 12,16100,piece,41.86,5
+4500220,2026-02-20,Maruti Corrupack Pvt. Ltd.,MF-PK-0017,Master carton - Soda 600ml x 24,12800,piece,46.45,5
+4500221,2026-02-10,Maruti Corrupack Pvt. Ltd.,MF-PK-0018,Master carton - Water 1L x 12,12300,piece,52.41,5
+4500222,2026-02-06,Maruti Corrupack Pvt. Ltd.,MF-PK-0019,Gift pack shipper - Diwali hamper,7100,piece,58.0,5
+4500223,2026-02-20,Maruti Corrupack Pvt. Ltd.,MF-PK-0020,Master carton - Ghee 1L x 12,6100,piece,62.04,5
+4500224,2026-02-15,Maruti Corrupack Pvt. Ltd.,MF-PK-0021,Master carton - Atta 5kg x 4,4700,piece,61.58,5
+4500225,2026-02-23,Maruti Corrupack Pvt. Ltd.,MF-PK-0022,Master carton - Sugar 5kg x 5,4100,piece,75.14,5
+4500226,2026-02-14,Maruti Corrupack Pvt. Ltd.,MF-PK-0023,Heavy-duty carton - Edible oil 15L tin,4200,piece,85.0,5
+4500227,2026-02-19,Maruti Corrupack Pvt. Ltd.,MF-PK-0024,Heavy-duty carton - Oil 5L jar x 4,3800,piece,109.48,5
+4500228,2026-02-11,Maruti Corrupack Pvt. Ltd.,MF-PK-0025,Heavy-duty carton - Bulk ingredients 20kg,2000,piece,153.31,5
+4500229,2026-02-18,Maruti Corrupack Pvt. Ltd.,MF-PK-0027,Partition set 12-cell (fits L11),35900,set,5.48,5
+4500230,2026-02-06,Maruti Corrupack Pvt. Ltd.,MF-PK-0028,Partition set 24-cell (fits L16),19700,set,8.43,5
+4500231,2026-02-04,Maruti Corrupack Pvt. Ltd.,MF-PK-0029,Layer pad 590 x 390 mm,23700,piece,5.32,5

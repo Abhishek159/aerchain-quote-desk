@@ -1,0 +1,1371 @@
+{
+  "fx_usd_inr": 88.0,
+  "vendors": {
+    "V1": {
+      "lines": {
+        "L26": {
+          "status": "quoted",
+          "native_price": 289.89,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 255.1032,
+          "note": ""
+        },
+        "L25": {
+          "status": "quoted",
+          "native_price": 181.24,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 159.4912,
+          "note": ""
+        },
+        "L24": {
+          "status": "quoted",
+          "native_price": 134.17,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 118.0696,
+          "note": ""
+        },
+        "L23": {
+          "status": "quoted",
+          "native_price": 100.57,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 88.5016,
+          "note": ""
+        },
+        "L22": {
+          "status": "quoted",
+          "native_price": 85.85,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 75.548,
+          "note": ""
+        },
+        "L21": {
+          "status": "quoted",
+          "native_price": 73.51,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 64.6888,
+          "note": ""
+        },
+        "L20": {
+          "status": "quoted",
+          "native_price": 75.56,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 66.4928,
+          "note": ""
+        },
+        "L19": {
+          "status": "quoted",
+          "native_price": 69.73,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 61.3624,
+          "note": ""
+        },
+        "L18": {
+          "status": "quoted",
+          "native_price": 57.05,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 50.204,
+          "note": ""
+        },
+        "L17": {
+          "status": "quoted",
+          "native_price": 54.63,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 48.0744,
+          "note": ""
+        },
+        "L16": {
+          "status": "quoted",
+          "native_price": 52.06,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 45.8128,
+          "note": ""
+        },
+        "L15": {
+          "status": "quoted",
+          "native_price": 45.66,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 40.1808,
+          "note": ""
+        },
+        "L14": {
+          "status": "quoted",
+          "native_price": 43.64,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 38.4032,
+          "note": ""
+        },
+        "L13": {
+          "status": "quoted",
+          "native_price": 36.14,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 31.8032,
+          "note": ""
+        },
+        "L12": {
+          "status": "quoted",
+          "native_price": 32.97,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 29.0136,
+          "note": "",
+          "alternate": {
+            "native_price": 30.66,
+            "note": "Option B, economy 150 GSM top liner"
+          }
+        },
+        "L11": {
+          "status": "quoted",
+          "native_price": 26.56,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 23.3728,
+          "note": ""
+        },
+        "L10": {
+          "status": "quoted",
+          "native_price": 29.57,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 26.0216,
+          "note": ""
+        },
+        "L09": {
+          "status": "quoted",
+          "native_price": 27.3,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 24.024,
+          "note": ""
+        },
+        "L08": {
+          "status": "quoted",
+          "native_price": 22.39,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 19.7032,
+          "note": ""
+        },
+        "L07": {
+          "status": "quoted",
+          "native_price": 19.72,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 17.3536,
+          "note": ""
+        },
+        "L06": {
+          "status": "quoted",
+          "native_price": 17.8,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 15.664,
+          "note": ""
+        },
+        "L05": {
+          "status": "quoted",
+          "native_price": 14.85,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 13.068,
+          "note": ""
+        },
+        "L04": {
+          "status": "quoted",
+          "native_price": 13.83,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 12.1704,
+          "note": ""
+        },
+        "L30": {
+          "status": "quoted",
+          "native_price": 9.99,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 8.7912,
+          "note": ""
+        },
+        "L03": {
+          "status": "quoted",
+          "native_price": 10.23,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 9.0024,
+          "note": ""
+        },
+        "L02": {
+          "status": "quoted",
+          "native_price": 7.7,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 6.776,
+          "note": ""
+        },
+        "L01": {
+          "status": "quoted",
+          "native_price": 5.11,
+          "native_unit": "Per 100 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 4.4968,
+          "note": ""
+        },
+        "L29": {
+          "status": "quoted",
+          "native_price": 63.63,
+          "native_unit": "Per 1000 Nos",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 5.5994,
+          "note": ""
+        },
+        "L27": {
+          "status": "quoted",
+          "native_price": 60.82,
+          "native_unit": "Per 1000 Sets",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 5.3522,
+          "note": ""
+        },
+        "L28": {
+          "status": "quoted",
+          "native_price": 101.37,
+          "native_unit": "Per 1000 Sets",
+          "currency": "USD",
+          "inr_per_unit_ex_gst": 8.9206,
+          "note": ""
+        }
+      },
+      "terms": {
+        "currency": "USD",
+        "gst": "5% extra",
+        "freight": "included (delivered Chakan)",
+        "payment_terms": "30 days",
+        "validity": "60 days",
+        "discount": null,
+        "lead_time_days": 18
+      },
+      "questionnaire": {
+        "Q1": "yes",
+        "Q2": "yes",
+        "Q3": 900,
+        "Q4": 0.6,
+        "Q5": 18,
+        "Q6": "yes",
+        "Q7": 65,
+        "Q8": 40,
+        "Q9": 38,
+        "Q10": "no",
+        "iso_valid_until": "2028-08-14",
+        "knockout_pass": true
+      }
+    },
+    "V2": {
+      "lines": {
+        "L01": {
+          "status": "quoted",
+          "native_price": 4.18,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 4.18,
+          "note": ""
+        },
+        "L02": {
+          "status": "quoted",
+          "native_price": 6.56,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 6.56,
+          "note": ""
+        },
+        "L03": {
+          "status": "quoted",
+          "native_price": 8.2,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 8.2,
+          "note": ""
+        },
+        "L04": {
+          "status": "quoted",
+          "native_price": 11.72,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 11.72,
+          "note": ""
+        },
+        "L05": {
+          "status": "quoted",
+          "native_price": 12.51,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 12.51,
+          "note": ""
+        },
+        "L06": {
+          "status": "quoted",
+          "native_price": 14.69,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 14.69,
+          "note": ""
+        },
+        "L07": {
+          "status": "quoted",
+          "native_price": 16.05,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 16.05,
+          "note": ""
+        },
+        "L08": {
+          "status": "quoted",
+          "native_price": 19.35,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 19.35,
+          "note": ""
+        },
+        "L09": {
+          "status": "quoted",
+          "native_price": 22.8,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 22.8,
+          "note": ""
+        },
+        "L10": {
+          "status": "quoted",
+          "native_price": 22.54,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 22.54,
+          "note": ""
+        },
+        "L11": {
+          "status": "quoted",
+          "native_price": 21.85,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 21.85,
+          "note": ""
+        },
+        "L12": {
+          "status": "quoted",
+          "native_price": 27.56,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 27.56,
+          "note": ""
+        },
+        "L13": {
+          "status": "quoted",
+          "native_price": 31.09,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 31.09,
+          "note": ""
+        },
+        "L14": {
+          "status": "quoted",
+          "native_price": 33.39,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 33.39,
+          "note": ""
+        },
+        "L15": {
+          "status": "quoted",
+          "native_price": 40.37,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 40.37,
+          "note": ""
+        },
+        "L16": {
+          "status": "quoted",
+          "native_price": 43.81,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 43.81,
+          "note": ""
+        },
+        "L17": {
+          "status": "quoted",
+          "native_price": 49.69,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 49.69,
+          "note": ""
+        },
+        "L18": {
+          "status": "quoted",
+          "native_price": 49.92,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 49.92,
+          "note": ""
+        },
+        "L19": {
+          "status": "quoted",
+          "native_price": 57.88,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 57.88,
+          "note": ""
+        },
+        "L20": {
+          "status": "quoted",
+          "native_price": 67.2,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 67.2,
+          "note": ""
+        },
+        "L21": {
+          "status": "quoted",
+          "native_price": 67.75,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 67.75,
+          "note": ""
+        },
+        "L22": {
+          "status": "quoted",
+          "native_price": 76.77,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 76.77,
+          "note": ""
+        },
+        "L23": {
+          "status": "quoted",
+          "native_price": 84.08,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 84.08,
+          "note": ""
+        },
+        "L24": {
+          "status": "quoted",
+          "native_price": 110.68,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 110.68,
+          "note": ""
+        },
+        "L25": {
+          "status": "quoted",
+          "native_price": 148.12,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 148.12,
+          "note": ""
+        },
+        "L26": {
+          "status": "not_quoted",
+          "native_price": null,
+          "native_unit": null,
+          "currency": "INR",
+          "inr_per_unit_ex_gst": null,
+          "note": "silently omitted"
+        },
+        "L27": {
+          "status": "quoted",
+          "native_price": 5.29,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 5.29,
+          "note": ""
+        },
+        "L28": {
+          "status": "quoted",
+          "native_price": 8.45,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 8.45,
+          "note": ""
+        },
+        "L29": {
+          "status": "not_quoted",
+          "native_price": null,
+          "native_unit": null,
+          "currency": "INR",
+          "inr_per_unit_ex_gst": null,
+          "note": "silently omitted"
+        },
+        "L30": {
+          "status": "not_quoted",
+          "native_price": null,
+          "native_unit": null,
+          "currency": "INR",
+          "inr_per_unit_ex_gst": null,
+          "note": "silently omitted"
+        }
+      },
+      "terms": {
+        "currency": "INR",
+        "gst": "5% extra",
+        "freight": "2% extra on basic value",
+        "payment_terms": "45 days",
+        "validity": "90 days",
+        "discount": "4% on total invoice value if annual business exceeds Rs. 50 lakh",
+        "lead_time_days": 15
+      },
+      "questionnaire": {
+        "Q1": "yes",
+        "Q2": "yes",
+        "Q3": 320,
+        "Q4": 1.2,
+        "Q5": 15,
+        "Q6": "yes",
+        "Q7": 70,
+        "Q8": 12,
+        "Q9": 24,
+        "Q10": "no",
+        "iso_valid_until": "2027-06-30",
+        "knockout_pass": true
+      }
+    },
+    "V3": {
+      "lines": {
+        "L01": {
+          "status": "quoted",
+          "native_price": 4.72,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 4.72,
+          "note": ""
+        },
+        "L02": {
+          "status": "quoted",
+          "native_price": 7.09,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 7.09,
+          "note": ""
+        },
+        "L03": {
+          "status": "quoted",
+          "native_price": 8.95,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 8.95,
+          "note": ""
+        },
+        "L04": {
+          "status": "quoted",
+          "native_price": 12.74,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 12.74,
+          "note": ""
+        },
+        "L05": {
+          "status": "quoted",
+          "native_price": 13.02,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 13.02,
+          "note": "spec deviation: 140 GSM top liner instead of 150",
+          "deviation": true
+        },
+        "L06": {
+          "status": "quoted",
+          "native_price": 14.98,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 14.98,
+          "note": "spec deviation: 140 GSM top liner instead of 150",
+          "deviation": true
+        },
+        "L07": {
+          "status": "quoted",
+          "native_price": 18.87,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 18.87,
+          "note": "spec deviation: 140 GSM top liner instead of 150",
+          "deviation": true
+        },
+        "L08": {
+          "status": "quoted",
+          "native_price": 19.41,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 19.41,
+          "note": "spec deviation: 140 GSM top liner instead of 150",
+          "deviation": true
+        },
+        "L09": {
+          "status": "quoted",
+          "native_price": 22.53,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 22.53,
+          "note": ""
+        },
+        "L10": {
+          "status": "quoted",
+          "native_price": 25.86,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 25.86,
+          "note": ""
+        },
+        "L11": {
+          "status": "quoted",
+          "native_price": 22.14,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 22.14,
+          "note": ""
+        },
+        "L12": {
+          "status": "quoted",
+          "native_price": 28.4,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 28.4,
+          "note": ""
+        },
+        "L13": {
+          "status": "quoted",
+          "native_price": 33.59,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 33.59,
+          "note": ""
+        },
+        "L14": {
+          "status": "quoted",
+          "native_price": 37.35,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 37.35,
+          "note": ""
+        },
+        "L15": {
+          "status": "quoted",
+          "native_price": 37.91,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 37.91,
+          "note": ""
+        },
+        "L16": {
+          "status": "quoted",
+          "native_price": 44.79,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 44.79,
+          "note": ""
+        },
+        "L17": {
+          "status": "quoted",
+          "native_price": 44.79,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 44.79,
+          "note": "quoted as 'same rate as L16'"
+        },
+        "L18": {
+          "status": "quoted",
+          "native_price": 44.79,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 44.79,
+          "note": "quoted as 'same rate as L16'"
+        },
+        "L19": {
+          "status": "quoted",
+          "native_price": 60.57,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 60.57,
+          "note": ""
+        },
+        "L20": {
+          "status": "quoted",
+          "native_price": 66.29,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 66.29,
+          "note": ""
+        },
+        "L21": {
+          "status": "quoted",
+          "native_price": 64.7,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 64.7,
+          "note": ""
+        },
+        "L22": {
+          "status": "quoted",
+          "native_price": 75.66,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 75.66,
+          "note": ""
+        },
+        "L23": {
+          "status": "quoted",
+          "native_price": 85.48,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 85.48,
+          "note": ""
+        },
+        "L24": {
+          "status": "quoted",
+          "native_price": 118.85,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 118.85,
+          "note": ""
+        },
+        "L25": {
+          "status": "quoted",
+          "native_price": 153.92,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 153.92,
+          "note": ""
+        },
+        "L26": {
+          "status": "quoted",
+          "native_price": 219.75,
+          "native_unit": "per box",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 219.75,
+          "note": ""
+        },
+        "L27": {
+          "status": "quoted",
+          "native_price": 5630.0,
+          "native_unit": "per 1000",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 5.63,
+          "note": ""
+        },
+        "L28": {
+          "status": "quoted",
+          "native_price": 8460.0,
+          "native_unit": "per 1000",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 8.46,
+          "note": ""
+        },
+        "L29": {
+          "status": "quoted",
+          "native_price": 5720.0,
+          "native_unit": "per 1000",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 5.72,
+          "note": ""
+        },
+        "L30": {
+          "status": "quoted",
+          "native_price": 9040.0,
+          "native_unit": "per 1000",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 9.04,
+          "note": ""
+        }
+      },
+      "terms": {
+        "currency": "INR",
+        "gst": "5% extra",
+        "freight": "included (delivered Chakan)",
+        "payment_terms": "45 days",
+        "validity": "till 31-Mar-2027",
+        "discount": null,
+        "lead_time_days": 21
+      },
+      "questionnaire": {
+        "Q1": "yes",
+        "Q2": "yes (accredited third-party lab)",
+        "Q3": "150-200 (range)",
+        "Q4": 1.4,
+        "Q5": 21,
+        "Q6": "yes",
+        "Q7": 60,
+        "Q8": 9,
+        "Q9": 31,
+        "Q10": "negotiable",
+        "iso_valid_until": "2027-11-30",
+        "knockout_pass": true,
+        "note": "Q3 is a range whose lower bound equals the threshold"
+      }
+    },
+    "V4": {
+      "lines": {
+        "L01": {
+          "status": "quoted",
+          "native_price": 4.2,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 4.0,
+          "note": ""
+        },
+        "L02": {
+          "status": "quoted",
+          "native_price": 6.5,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 6.1905,
+          "note": ""
+        },
+        "L03": {
+          "status": "quoted",
+          "native_price": 8.1,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 7.7143,
+          "note": ""
+        },
+        "L04": {
+          "status": "quoted",
+          "native_price": 12.0,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 11.4286,
+          "note": ""
+        },
+        "L05": {
+          "status": "quoted",
+          "native_price": 12.0,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 11.4286,
+          "note": ""
+        },
+        "L06": {
+          "status": "quoted",
+          "native_price": 14.5,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 13.8095,
+          "note": ""
+        },
+        "L07": {
+          "status": "quoted",
+          "native_price": 17.9,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 17.0476,
+          "note": ""
+        },
+        "L08": {
+          "status": "quoted",
+          "native_price": 18.0,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 17.1429,
+          "note": ""
+        },
+        "L09": {
+          "status": "quoted",
+          "native_price": 20.9,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 19.9048,
+          "note": ""
+        },
+        "L10": {
+          "status": "quoted",
+          "native_price": 23.9,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 22.7619,
+          "note": ""
+        },
+        "L11": {
+          "status": "quoted",
+          "native_price": 21.3,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 20.2857,
+          "note": ""
+        },
+        "L12": {
+          "status": "quoted",
+          "native_price": 27.2,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 25.9048,
+          "note": ""
+        },
+        "L13": {
+          "status": "quoted",
+          "native_price": 32.9,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 31.3333,
+          "note": ""
+        },
+        "L14": {
+          "status": "quoted",
+          "native_price": 35.3,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 33.619,
+          "note": ""
+        },
+        "L15": {
+          "status": "quoted",
+          "native_price": 37.8,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 36.0,
+          "note": ""
+        },
+        "L16": {
+          "status": "quoted",
+          "native_price": 40.1,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 38.1905,
+          "note": ""
+        },
+        "L17": {
+          "status": "quoted",
+          "native_price": 47.3,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 45.0476,
+          "note": ""
+        },
+        "L18": {
+          "status": "quoted",
+          "native_price": 46.6,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 44.381,
+          "note": ""
+        },
+        "L19": {
+          "status": "not_quoted",
+          "native_price": null,
+          "native_unit": null,
+          "currency": "INR",
+          "inr_per_unit_ex_gst": null,
+          "note": ""
+        },
+        "L20": {
+          "status": "quoted",
+          "native_price": 65.9,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 62.7619,
+          "note": ""
+        },
+        "L21": {
+          "status": "quoted",
+          "native_price": 63.9,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 60.8571,
+          "note": ""
+        },
+        "L22": {
+          "status": "quoted",
+          "native_price": 79.1,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 75.3333,
+          "note": ""
+        },
+        "L23": {
+          "status": "quoted",
+          "native_price": 81.0,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 77.1429,
+          "note": ""
+        },
+        "L24": {
+          "status": "quoted",
+          "native_price": 106.2,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 101.1429,
+          "note": ""
+        },
+        "L25": {
+          "status": "quoted",
+          "native_price": 150.4,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 143.2381,
+          "note": ""
+        },
+        "L26": {
+          "status": "quoted",
+          "native_price": 233.3,
+          "native_unit": "per box (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 222.1905,
+          "note": ""
+        },
+        "L27": {
+          "status": "quoted",
+          "native_price": 5.3,
+          "native_unit": "per set (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 5.0476,
+          "note": ""
+        },
+        "L28": {
+          "status": "quoted",
+          "native_price": 8.0,
+          "native_unit": "per set (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 7.619,
+          "note": ""
+        },
+        "L29": {
+          "status": "quoted",
+          "native_price": 516.0,
+          "native_unit": "per 100 (incl. GST)",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 4.9143,
+          "note": ""
+        },
+        "L30": {
+          "status": "not_quoted",
+          "native_price": null,
+          "native_unit": null,
+          "currency": "INR",
+          "inr_per_unit_ex_gst": null,
+          "note": ""
+        }
+      },
+      "terms": {
+        "currency": "INR",
+        "gst": "inclusive (5%)",
+        "freight": "included up to 50 km",
+        "payment_terms": "advance 30%, balance 15 days",
+        "validity": "not stated",
+        "discount": null,
+        "lead_time_days": 10
+      },
+      "questionnaire": {
+        "Q1": "yes (but attached certificate expired 31-Mar-2025)",
+        "Q2": "yes",
+        "Q3": 180,
+        "Q4": "below 2% (not a number)",
+        "Q5": 10,
+        "Q6": "not answered",
+        "Q7": "not answered",
+        "Q8": "many",
+        "Q9": 22,
+        "Q10": "no",
+        "iso_valid_until": "2025-03-31",
+        "knockout_pass": false,
+        "note": "Says ISO yes, but the attached certificate has expired; Q4 does not meet <=1.5%"
+      }
+    },
+    "V5": {
+      "lines": {
+        "L01": {
+          "status": "quoted_per_kg",
+          "native_price": 38.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 3.268,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L02": {
+          "status": "quoted_per_kg",
+          "native_price": 38.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 4.788,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L03": {
+          "status": "quoted_per_kg",
+          "native_price": 38.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 6.46,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L04": {
+          "status": "quoted_per_kg",
+          "native_price": 38.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 8.626,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L05": {
+          "status": "quoted_per_kg",
+          "native_price": 38.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 9.88,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L06": {
+          "status": "quoted_per_kg",
+          "native_price": 38.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 12.046,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L07": {
+          "status": "quoted_per_kg",
+          "native_price": 38.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 12.768,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L08": {
+          "status": "quoted_per_kg",
+          "native_price": 38.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 15.352,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L09": {
+          "status": "quoted_per_kg",
+          "native_price": 38.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 17.442,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L10": {
+          "status": "quoted_per_kg",
+          "native_price": 38.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 20.14,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L11": {
+          "status": "quoted_per_kg",
+          "native_price": 42.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 18.144,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L12": {
+          "status": "quoted_per_kg",
+          "native_price": 42.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 23.016,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L13": {
+          "status": "quoted_per_kg",
+          "native_price": 42.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 27.258,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L14": {
+          "status": "quoted_per_kg",
+          "native_price": 42.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 30.576,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L15": {
+          "status": "quoted_per_kg",
+          "native_price": 42.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 32.298,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L16": {
+          "status": "quoted_per_kg",
+          "native_price": 42.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 37.758,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L17": {
+          "status": "quoted_per_kg",
+          "native_price": 42.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 41.454,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L18": {
+          "status": "quoted_per_kg",
+          "native_price": 42.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 44.646,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L19": {
+          "status": "quoted_per_kg",
+          "native_price": 42.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 49.98,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L20": {
+          "status": "quoted_per_kg",
+          "native_price": 42.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 56.154,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L21": {
+          "status": "quoted_per_kg",
+          "native_price": 42.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 57.834,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L22": {
+          "status": "quoted_per_kg",
+          "native_price": 42.0,
+          "native_unit": "per kg",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 68.292,
+          "note": "per-kg rate x RFx nominal weight"
+        },
+        "L23": {
+          "status": "same_as_last_year",
+          "native_price": 85.0,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 85.0,
+          "note": "resolved from FY25-26 PO history"
+        },
+        "L24": {
+          "status": "same_as_last_year",
+          "native_price": 109.48,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 109.48,
+          "note": "resolved from FY25-26 PO history"
+        },
+        "L25": {
+          "status": "same_as_last_year",
+          "native_price": 153.31,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 153.31,
+          "note": "resolved from FY25-26 PO history"
+        },
+        "L26": {
+          "status": "unresolved",
+          "native_price": null,
+          "native_unit": null,
+          "currency": "INR",
+          "inr_per_unit_ex_gst": null,
+          "note": "'same as last year' but this SKU was never bought before"
+        },
+        "L27": {
+          "status": "same_as_last_year",
+          "native_price": 5.48,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 5.48,
+          "note": "resolved from FY25-26 PO history"
+        },
+        "L28": {
+          "status": "same_as_last_year",
+          "native_price": 8.43,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 8.43,
+          "note": "resolved from FY25-26 PO history"
+        },
+        "L29": {
+          "status": "same_as_last_year",
+          "native_price": 5.32,
+          "native_unit": "per piece",
+          "currency": "INR",
+          "inr_per_unit_ex_gst": 5.32,
+          "note": "resolved from FY25-26 PO history"
+        },
+        "L30": {
+          "status": "unresolved",
+          "native_price": null,
+          "native_unit": null,
+          "currency": "INR",
+          "inr_per_unit_ex_gst": null,
+          "note": "'same as last year' but this SKU was never bought before"
+        }
+      },
+      "terms": {
+        "currency": "INR",
+        "gst": "not stated",
+        "freight": "extra (amount not stated)",
+        "payment_terms": "not stated",
+        "validity": "not stated",
+        "discount": null,
+        "lead_time_days": null
+      },
+      "questionnaire": {
+        "knockout_pass": false,
+        "note": "No questionnaire response at all"
+      }
+    }
+  },
+  "last_year_price": {
+    "L01": 4.46,
+    "L02": 6.68,
+    "L03": 8.1,
+    "L04": 10.76,
+    "L05": 12.42,
+    "L06": 14.89,
+    "L07": 16.19,
+    "L08": 18.03,
+    "L09": 20.55,
+    "L10": 25.03,
+    "L11": 20.06,
+    "L12": 27.56,
+    "L13": 31.47,
+    "L14": 35.16,
+    "L15": 37.82,
+    "L16": 41.86,
+    "L17": 46.45,
+    "L18": 52.41,
+    "L19": 58.0,
+    "L20": 62.04,
+    "L21": 61.58,
+    "L22": 75.14,
+    "L23": 85.0,
+    "L24": 109.48,
+    "L25": 153.31,
+    "L27": 5.48,
+    "L28": 8.43,
+    "L29": 5.32
+  },
+  "generated_on": "2026-10-16"
+}

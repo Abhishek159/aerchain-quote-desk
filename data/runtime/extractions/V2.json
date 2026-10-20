@@ -1,0 +1,917 @@
+{
+  "vendor_id": "V2",
+  "vendor_name": "Shree Ganesh Packaging Industries",
+  "folder": "V2_ShreeGanesh",
+  "extracted_at": "2026-10-16T16:57:12",
+  "model": "gemini-3.8-flash",
+  "files": [
+    {
+      "file": "email body",
+      "kind": "email"
+    },
+    {
+      "file": "SGPI_Quotation_SG-2627-118.pdf",
+      "kind": "pdf"
+    },
+    {
+      "file": "SGPI_ISO_Certificate.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "result": {
+    "quote_reference": "SG/2627/118",
+    "quote_date": "2026-10-08",
+    "line_quotes": [
+      {
+        "vendor_item_text": "Shipper carton - Namkeen 40g x 24",
+        "vendor_dims": "200 x 150 x 100",
+        "vendor_ply": 3,
+        "rfx_line_id": "L01",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0001, description, dims 200 x 150 x 100, and 3-ply match exactly",
+        "price_value": 4.18,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "1 MF-PK-0001 Shipper carton - Namkeen 40g x 24 200 x 150 x 100 3 4.18"
+        }
+      },
+      {
+        "vendor_item_text": "Shipper carton - Namkeen 80g x 24",
+        "vendor_dims": "250 x 180 x 120",
+        "vendor_ply": 3,
+        "rfx_line_id": "L02",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0002, description, dims 250 x 180 x 120, and 3-ply match exactly",
+        "price_value": 6.56,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "2 MF-PK-0002 Shipper carton - Namkeen 80g x 24 250 x 180 x 120 3 6.56"
+        }
+      },
+      {
+        "vendor_item_text": "Shipper carton - Chips 52g x 30",
+        "vendor_dims": "300 x 200 x 150",
+        "vendor_ply": 3,
+        "rfx_line_id": "L03",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0003, description, dims 300 x 200 x 150, and 3-ply match exactly",
+        "price_value": 8.2,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "3 MF-PK-0003 Shipper carton - Chips 52g x 30 300 x 200 x 150 3 8.20"
+        }
+      },
+      {
+        "vendor_item_text": "Shipper carton - Chips family pack",
+        "vendor_dims": "320 x 240 x 180",
+        "vendor_ply": 3,
+        "rfx_line_id": "L04",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0004, description, dims 320 x 240 x 180, and 3-ply match exactly",
+        "price_value": 11.72,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "4 MF-PK-0004 Shipper carton - Chips family pack 320 x 240 x 180 3 11.72"
+        }
+      },
+      {
+        "vendor_item_text": "Shipper carton - Rusk 300g x 16",
+        "vendor_dims": "350 x 250 x 200",
+        "vendor_ply": 3,
+        "rfx_line_id": "L05",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0005, description, dims 350 x 250 x 200, and 3-ply match exactly",
+        "price_value": 12.51,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "5 MF-PK-0005 Shipper carton - Rusk 300g x 16 350 x 250 x 200 3 12.51"
+        }
+      },
+      {
+        "vendor_item_text": "Shipper carton - Mixture 1kg x 10",
+        "vendor_dims": "380 x 280 x 220",
+        "vendor_ply": 3,
+        "rfx_line_id": "L06",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0006, description, dims 380 x 280 x 220, and 3-ply match exactly",
+        "price_value": 14.69,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "6 MF-PK-0006 Shipper carton - Mixture 1kg x 10 380 x 280 x 220 3 14.69"
+        }
+      },
+      {
+        "vendor_item_text": "Shipper carton - Cookies tin x 12",
+        "vendor_dims": "400 x 300 x 200",
+        "vendor_ply": 3,
+        "rfx_line_id": "L07",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0007, description, dims 400 x 300 x 200, and 3-ply match exactly",
+        "price_value": 16.05,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "7 MF-PK-0007 Shipper carton - Cookies tin x 12 400 x 300 x 200 3 16.05"
+        }
+      },
+      {
+        "vendor_item_text": "Shipper carton - Assorted gift x 8",
+        "vendor_dims": "420 x 320 x 250",
+        "vendor_ply": 3,
+        "rfx_line_id": "L08",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0008, description, dims 420 x 320 x 250, and 3-ply match exactly",
+        "price_value": 19.35,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "8 MF-PK-0008 Shipper carton - Assorted gift x 8 420 x 320 x 250 3 19.35"
+        }
+      },
+      {
+        "vendor_item_text": "Shipper carton - Bulk namkeen 5kg",
+        "vendor_dims": "450 x 350 x 250",
+        "vendor_ply": 3,
+        "rfx_line_id": "L09",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0009, description, dims 450 x 350 x 250, and 3-ply match exactly",
+        "price_value": 22.8,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "9 MF-PK-0009 Shipper carton - Bulk namkeen 5kg 450 x 350 x 250 3 22.80"
+        }
+      },
+      {
+        "vendor_item_text": "Shipper carton - Institutional pac",
+        "vendor_dims": "480 x 360 x 300",
+        "vendor_ply": 3,
+        "rfx_line_id": "L10",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0010, description, dims 480 x 360 x 300, and 3-ply match exactly",
+        "price_value": 22.54,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "10 MF-PK-0010 Shipper carton - Institutional pac 480 x 360 x 300 3 22.54"
+        }
+      },
+      {
+        "vendor_item_text": "Master carton - Biscuit 75g x 48",
+        "vendor_dims": "300 x 250 x 200",
+        "vendor_ply": 5,
+        "rfx_line_id": "L11",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0011, description, dims 300 x 250 x 200, and 5-ply match exactly",
+        "price_value": 21.85,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "11 MF-PK-0011 Master carton - Biscuit 75g x 48 300 x 250 x 200 5 21.85"
+        }
+      },
+      {
+        "vendor_item_text": "Master carton - Biscuit 150g x 36",
+        "vendor_dims": "350 x 280 x 220",
+        "vendor_ply": 5,
+        "rfx_line_id": "L12",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0012, description, dims 350 x 280 x 220, and 5-ply match exactly",
+        "price_value": 27.56,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "12 MF-PK-0012 Master carton - Biscuit 150g x 36 350 x 280 x 220 5 27.56"
+        }
+      },
+      {
+        "vendor_item_text": "Master carton - Cream biscuit 120g",
+        "vendor_dims": "380 x 300 x 250",
+        "vendor_ply": 5,
+        "rfx_line_id": "L13",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0013, description, dims 380 x 300 x 250, and 5-ply match exactly",
+        "price_value": 31.09,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "13 MF-PK-0013 Master carton - Cream biscuit 120g 380 x 300 x 250 5 31.09"
+        }
+      },
+      {
+        "vendor_item_text": "Master carton - Glucose 800g x 12",
+        "vendor_dims": "400 x 300 x 300",
+        "vendor_ply": 5,
+        "rfx_line_id": "L14",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0014, description, dims 400 x 300 x 300, and 5-ply match exactly",
+        "price_value": 33.39,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "14 MF-PK-0014 Master carton - Glucose 800g x 12 400 x 300 x 300 5 33.39"
+        }
+      },
+      {
+        "vendor_item_text": "Master carton - Juice 200ml x 27",
+        "vendor_dims": "420 x 320 x 280",
+        "vendor_ply": 5,
+        "rfx_line_id": "L15",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0015, description, dims 420 x 320 x 280, and 5-ply match exactly",
+        "price_value": 40.37,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "15 MF-PK-0015 Master carton - Juice 200ml x 27 420 x 320 x 280 5 40.37"
+        }
+      },
+      {
+        "vendor_item_text": "Master carton - Juice 1L x 12",
+        "vendor_dims": "450 x 350 x 300",
+        "vendor_ply": 5,
+        "rfx_line_id": "L16",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0016, description, dims 450 x 350 x 300, and 5-ply match exactly",
+        "price_value": 43.81,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "16 MF-PK-0016 Master carton - Juice 1L x 12 450 x 350 x 300 5 43.81"
+        }
+      },
+      {
+        "vendor_item_text": "Master carton - Soda 600ml x 24",
+        "vendor_dims": "480 x 360 x 320",
+        "vendor_ply": 5,
+        "rfx_line_id": "L17",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0017, description, dims 480 x 360 x 320, and 5-ply match exactly",
+        "price_value": 49.69,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "17 MF-PK-0017 Master carton - Soda 600ml x 24 480 x 360 x 320 5 49.69"
+        }
+      },
+      {
+        "vendor_item_text": "Master carton - Water 1L x 12",
+        "vendor_dims": "500 x 380 x 320",
+        "vendor_ply": 5,
+        "rfx_line_id": "L18",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0018, description, dims 500 x 380 x 320, and 5-ply match exactly",
+        "price_value": 49.92,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "18 MF-PK-0018 Master carton - Water 1L x 12 500 x 380 x 320 5 49.92"
+        }
+      },
+      {
+        "vendor_item_text": "Gift pack shipper - Diwali hamper",
+        "vendor_dims": "520 x 400 x 350",
+        "vendor_ply": 5,
+        "rfx_line_id": "L19",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0019, description, dims 520 x 400 x 350, and 5-ply match exactly",
+        "price_value": 57.88,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "19 MF-PK-0019 Gift pack shipper - Diwali hamper 520 x 400 x 350 5 57.88"
+        }
+      },
+      {
+        "vendor_item_text": "Master carton - Ghee 1L x 12",
+        "vendor_dims": "550 x 420 x 380",
+        "vendor_ply": 5,
+        "rfx_line_id": "L20",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0020, description, dims 550 x 420 x 380, and 5-ply match exactly",
+        "price_value": 67.2,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "20 MF-PK-0020 Master carton - Ghee 1L x 12 550 x 420 x 380 5 67.20"
+        }
+      },
+      {
+        "vendor_item_text": "Master carton - Atta 5kg x 4",
+        "vendor_dims": "600 x 400 x 400",
+        "vendor_ply": 5,
+        "rfx_line_id": "L21",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0021, description, dims 600 x 400 x 400, and 5-ply match exactly",
+        "price_value": 67.75,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "21 MF-PK-0021 Master carton - Atta 5kg x 4 600 x 400 x 400 5 67.75"
+        }
+      },
+      {
+        "vendor_item_text": "Master carton - Sugar 5kg x 5",
+        "vendor_dims": "600 x 450 x 450",
+        "vendor_ply": 5,
+        "rfx_line_id": "L22",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0022, description, dims 600 x 450 x 450, and 5-ply match exactly",
+        "price_value": 76.77,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "22 MF-PK-0022 Master carton - Sugar 5kg x 5 600 x 450 x 450 5 76.77"
+        }
+      },
+      {
+        "vendor_item_text": "Heavy-duty carton - Edible oil 15L",
+        "vendor_dims": "400 x 400 x 350",
+        "vendor_ply": 7,
+        "rfx_line_id": "L23",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0023, description, dims 400 x 400 x 350, and 7-ply match exactly",
+        "price_value": 84.08,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "23 MF-PK-0023 Heavy-duty carton - Edible oil 15L 400 x 400 x 350 7 84.08"
+        }
+      },
+      {
+        "vendor_item_text": "Heavy-duty carton - Oil 5L jar x 4",
+        "vendor_dims": "450 x 450 x 400",
+        "vendor_ply": 7,
+        "rfx_line_id": "L24",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0024, description, dims 450 x 450 x 400, and 7-ply match exactly",
+        "price_value": 110.68,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "24 MF-PK-0024 Heavy-duty carton - Oil 5L jar x 4 450 x 450 x 400 7 110.68"
+        }
+      },
+      {
+        "vendor_item_text": "Heavy-duty carton - Bulk ingredien",
+        "vendor_dims": "600 x 500 x 500",
+        "vendor_ply": 7,
+        "rfx_line_id": "L25",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0025, description, dims 600 x 500 x 500, and 7-ply match exactly",
+        "price_value": 148.12,
+        "currency": "INR",
+        "price_basis": "per_piece",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": null,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "25 MF-PK-0025 Heavy-duty carton - Bulk ingredien 600 x 500 x 500 7 148.12"
+        }
+      },
+      {
+        "vendor_item_text": "Partition set 12-cell (fits L11)",
+        "vendor_dims": "as per drawing",
+        "vendor_ply": 3,
+        "rfx_line_id": "L27",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0027, description, drawing reference, and 3-ply match exactly",
+        "price_value": 5.29,
+        "currency": "INR",
+        "price_basis": "per_set",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": "Vendor table header states 'Rate* (Rs./pc)' with footnote '* Rates are basic per piece', but item is a partition set corresponding to UOM set.",
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "26 MF-PK-0027 Partition set 12-cell (fits L11) as per drawing 3 5.29"
+        }
+      },
+      {
+        "vendor_item_text": "Partition set 24-cell (fits L16)",
+        "vendor_dims": "as per drawing",
+        "vendor_ply": 3,
+        "rfx_line_id": "L28",
+        "match_confidence": "high",
+        "match_reason": "Item code MF-PK-0028, description, drawing reference, and 3-ply match exactly",
+        "price_value": 8.45,
+        "currency": "INR",
+        "price_basis": "per_set",
+        "bundle_size": null,
+        "gst_treatment": "exclusive",
+        "gst_rate_pct": 5.0,
+        "price_reference": "explicit",
+        "reference_line_id": null,
+        "is_alternate_offer": false,
+        "spec_deviation": null,
+        "extraction_confidence": "high",
+        "uncertainty_note": "Vendor table header states 'Rate* (Rs./pc)' with footnote '* Rates are basic per piece', but item is a partition set corresponding to UOM set.",
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "27 MF-PK-0028 Partition set 24-cell (fits L16) as per drawing 3 8.45"
+        }
+      }
+    ],
+    "bulk_rules": [],
+    "terms": {
+      "freight_basis": "percent_extra",
+      "freight_value": 2.0,
+      "freight_text": "2% extra on basic value, delivered Chakan.",
+      "gst_text": "GST @ 5% extra as applicable.",
+      "payment_terms_days": 45,
+      "payment_text": "45 days from date of invoice.",
+      "advance_payment_pct": null,
+      "validity_text": "90 days.",
+      "lead_time_days": 15,
+      "price_variation_clause": "Rates subject to revision in case kraft paper prices change by more than 8%.",
+      "discounts": [
+        {
+          "description": "Trade discount of 4% extended on total invoice value where annual business placed exceeds Rs. 50 lakh",
+          "pct": 4.0,
+          "is_conditional": true,
+          "condition_text": "where annual business placed exceeds Rs. 50 lakh",
+          "min_annual_value_inr": 5000000.0,
+          "source": {
+            "file": "SGPI_Quotation_SG-2627-118.pdf",
+            "locator": "page 1",
+            "verbatim": "A trade discount of 4% will be extended on the total invoice value where annual business placed exceeds Rs. 50 lakh."
+          }
+        }
+      ],
+      "other_notes": [
+        "E&OE."
+      ],
+      "source_notes": [
+        {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 1",
+          "verbatim": "Terms & Conditions:\n1. GST @ 5% extra as applicable.\n2. Freight: 2% extra on basic value, delivered Chakan.\n3. Payment: 45 days from date of invoice.\n4. Validity: 90 days.\n5. Delivery: 15 days from receipt of confirmed PO.\n* Rates are basic per piece. A trade discount of 4% will be extended on the total invoice value where annual business placed exceeds Rs. 50 lakh.\n Rates subject to revision in case kraft paper prices change by more than 8%. E&OE."
+        }
+      ]
+    },
+    "questionnaire": [
+      {
+        "qid": "Q1",
+        "answered": true,
+        "answer_text": "Yes, certificate enclosed",
+        "value_bool": true,
+        "value_number": null,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 2",
+          "verbatim": "1. ISO 9001 Yes, certificate enclosed"
+        }
+      },
+      {
+        "qid": "Q2",
+        "answered": true,
+        "answer_text": "Yes - in-house lab",
+        "value_bool": true,
+        "value_number": null,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 2",
+          "verbatim": "2. Lot testing BCT/ECT/Burst Yes - in-house lab"
+        }
+      },
+      {
+        "qid": "Q3",
+        "answered": true,
+        "answer_text": "320 MT / month",
+        "value_bool": null,
+        "value_number": 320.0,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 2",
+          "verbatim": "3. Capacity 320 MT / month"
+        }
+      },
+      {
+        "qid": "Q4",
+        "answered": true,
+        "answer_text": "1.2 %",
+        "value_bool": null,
+        "value_number": 1.2,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 2",
+          "verbatim": "4. Rejection rate (12 months) 1.2 %"
+        }
+      },
+      {
+        "qid": "Q5",
+        "answered": true,
+        "answer_text": "15 days",
+        "value_bool": null,
+        "value_number": 15.0,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 2",
+          "verbatim": "5. Lead time 15 days"
+        }
+      },
+      {
+        "qid": "Q6",
+        "answered": true,
+        "answer_text": "Yes (water-based)",
+        "value_bool": true,
+        "value_number": null,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 2",
+          "verbatim": "6. Food-grade inks Yes (water-based)"
+        }
+      },
+      {
+        "qid": "Q7",
+        "answered": true,
+        "answer_text": "70 %",
+        "value_bool": null,
+        "value_number": 70.0,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 2",
+          "verbatim": "7. Recycled content 70 %"
+        }
+      },
+      {
+        "qid": "Q8",
+        "answered": true,
+        "answer_text": "12",
+        "value_bool": null,
+        "value_number": 12.0,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 2",
+          "verbatim": "8. FMCG customers 12"
+        }
+      },
+      {
+        "qid": "Q9",
+        "answered": true,
+        "answer_text": "24 km",
+        "value_bool": null,
+        "value_number": 24.0,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 2",
+          "verbatim": "9. Distance from Chakan 24 km"
+        }
+      },
+      {
+        "qid": "Q10",
+        "answered": true,
+        "answer_text": "No, 45 days",
+        "value_bool": false,
+        "value_number": 45.0,
+        "is_range": false,
+        "range_low": null,
+        "range_high": null,
+        "is_vague": false,
+        "source": {
+          "file": "SGPI_Quotation_SG-2627-118.pdf",
+          "locator": "page 2",
+          "verbatim": "10. 60-day payment No, 45 days"
+        }
+      }
+    ],
+    "certificates": [
+      {
+        "standard": "ISO 9001:2015",
+        "holder": "Shree Ganesh Packaging Industries",
+        "certificate_no": "QCS-QM-19022",
+        "valid_until": "2027-06-30",
+        "file": "SGPI_ISO_Certificate.pdf"
+      }
+    ],
+    "reader_notes": [
+      "Lines L26 (MF-PK-0026), L29 (MF-PK-0029), and L30 (MF-PK-0030) were not quoted by the vendor.",
+      "Payment terms offered are 45 days from date of invoice, declining the requested 60-day terms.",
+      "Freight is not included in the basic piece rates; vendor quoted 2% extra on basic value for delivery to Chakan.",
+      "Rates are subject to kraft paper price variation clause: revision applies if kraft paper prices fluctuate by more than 8%."
+    ]
+  },
+  "second_read": null
+}
