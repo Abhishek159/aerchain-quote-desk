@@ -32,9 +32,10 @@ class Response:
 def client():
     global _client
     if _client is None:
-        if not config.GEMINI_API_KEY:
-            raise LLMError("GEMINI_API_KEY is missing in .env")
-        _client = genai.Client(api_key=config.GEMINI_API_KEY)
+        key = config.gemini_key()
+        if not key:
+            raise LLMError("GEMINI_API_KEY is missing (.env locally, Secrets on Streamlit Cloud)")
+        _client = genai.Client(api_key=key)
     return _client
 
 
@@ -52,8 +53,8 @@ def _retryable(e):
 def generate(contents, *, purpose, models=None, system=None, schema=None, tools=None,
              temperature=0.0, max_output_tokens=32768):
     """Call Gemini, falling back across models. Returns the raw response."""
-    if config.BUDGET_INR and usage_summary()["est_inr"] >= config.BUDGET_INR:
-        raise LLMError(f"Demo budget of Rs {config.BUDGET_INR:g} for AI calls is used up. "
+    if config.budget_inr() and usage_summary()["est_inr"] >= config.budget_inr():
+        raise LLMError(f"Demo budget of Rs {config.budget_inr():g} for AI calls is used up. "
                        "Everything that does not need the AI (comparison, review, award, Excel) still works.")
     models = models or config.EXTRACT_MODELS
     cfg = dict(temperature=temperature, max_output_tokens=max_output_tokens)

@@ -78,11 +78,11 @@ def sidebar():
                 s.fx["USD"], s.default_gst_pct, s.contract_start = usd, gst, start
                 st.rerun()
         u = llm.usage_summary()
-        cap = f" of ₹{config.BUDGET_INR:g} demo budget" if config.BUDGET_INR else ""
+        cap = f" of ₹{config.budget_inr():g} demo budget" if config.budget_inr() else ""
         st.caption(f"AI calls: {u['ok']} · est. spend ₹{u['est_inr']:g}{cap}  \n"
                    f"tokens in {u['in_tokens']:,} · out {u['out_tokens']:,}")
-        if not config.GEMINI_API_KEY:
-            st.error("GEMINI_API_KEY missing in .env")
+        if not config.gemini_key():
+            st.error("GEMINI_API_KEY missing - add it to .env (local) or Settings → Secrets (Streamlit Cloud), then reboot")
 
 
 def show_source(cell_or_quote_source, folder_name, key=""):

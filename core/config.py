@@ -38,12 +38,21 @@ def setting(name, default=""):
     return default if v is None else str(v).strip()
 
 
-GEMINI_API_KEY = setting("GEMINI_API_KEY")
+def gemini_key():
+    """Read at call time, so a key added in Streamlit Cloud secrets works without a reboot."""
+    return setting("GEMINI_API_KEY")
+
+
+GEMINI_API_KEY = gemini_key()
 
 # Hosted demo protection. DEMO_MODE=1 locks re-reading the original vendors;
 # BUDGET_INR stops all model calls once estimated spend reaches it.
-DEMO_MODE = setting("DEMO_MODE", "0") == "1"
-BUDGET_INR = float(setting("BUDGET_INR", "0") or 0)  # 0 = no cap
+def demo_mode():
+    return setting("DEMO_MODE", "0") == "1"
+
+
+def budget_inr():
+    return float(setting("BUDGET_INR", "0") or 0)  # 0 = no cap
 # Rupees per 1,000 tokens, calibrated from this project's own AI Studio bill
 # (thinking tokens are billed as output).
 COST_IN_PER_1K = float(setting("COST_IN_PER_1K", "0.05"))

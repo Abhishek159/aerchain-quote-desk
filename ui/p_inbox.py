@@ -16,7 +16,7 @@ ex = extract.load_extractions()
 
 def can_read(f):
     """In the hosted demo the original five are already read; only new or edited responses cost credit."""
-    return not config.DEMO_MODE or ingest.user_changed(f) or ingest.vendor_id(f) not in ex
+    return not config.demo_mode() or ingest.user_changed(f) or ingest.vendor_id(f) not in ex
 
 
 def stale(f):
@@ -70,8 +70,8 @@ with st.expander("➕ Add a vendor response (any format)", expanded=False):
 # ---- read all ---------------------------------------------------------------------------
 pending = [f for f in folders if can_read(f) and stale(f)]
 c1, c2 = st.columns([1, 3])
-label = "Read new / changed responses" if config.DEMO_MODE else "Read all responses"
-targets = pending if config.DEMO_MODE else folders
+label = "Read new / changed responses" if config.demo_mode() else "Read all responses"
+targets = pending if config.demo_mode() else folders
 if c1.button(label, type="primary", disabled=not targets):
     bar = st.progress(0.0)
     for i, f in enumerate(targets, 1):
@@ -81,7 +81,7 @@ if c1.button(label, type="primary", disabled=not targets):
     bar.progress(1.0, text="Done")
     st.rerun()
 c2.caption(("Demo mode: the five original responses are already read and locked. New or edited responses can be read. "
-            if config.DEMO_MODE else "") +
+            if config.demo_mode() else "") +
            "Results are cached in data/runtime/extractions, so nothing is re-read unless you ask.")
 
 # ---- each vendor -------------------------------------------------------------------------
